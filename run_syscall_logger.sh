@@ -1,8 +1,17 @@
 #!/bin/bash
 
 # --- Configurações ---
-# O comando para executar o módulo Python principal do seu logger
-PYTHON_LOGGER_CMD="python3 -m syscall_logger.main" 
+# Detecta o caminho do python do venv se o venv estiver ativo
+if [[ -n "$VIRTUAL_ENV" ]]; then
+    PYTHON_BIN_PATH="$VIRTUAL_ENV/bin/python3"
+    echo -e "${YELLOW}INFO: Usando Python do ambiente virtual: $PYTHON_BIN_PATH${NC}" >&2
+else
+    # Fallback para o python3 do sistema se o venv não estiver ativo
+    PYTHON_BIN_PATH="python3"
+    echo -e "${YELLOW}INFO: Ambiente virtual não ativo. Usando Python do sistema: $PYTHON_BIN_PATH${NC}" >&2
+fi
+
+PYTHON_LOGGER_CMD="$PYTHON_BIN_PATH -m syscall_logger.main" 
 OUTPUT_DIR="./logs" # Diretório padrão para salvar os arquivos de log
 DEFAULT_FORMAT="text"
 

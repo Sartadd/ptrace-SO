@@ -109,7 +109,7 @@ class SyscallLogger(Application):
             # Escapa aspas duplas dentro das strings para CSV
             escaped_args = entry['arguments'].replace('"', '""')
             self.output_file.write(
-                f'"{entry['timestamp']}",{entry['pid']},"{entry['syscall_name']}","{escaped_args}",{entry['return_value']},{entry['error_code']}\n'
+                f'"{entry["timestamp"]}",{entry["pid"]},"{entry["syscall_name"]}","{escaped_args}",{entry["return_value"]},{entry["error_code"]},{entry["error_name"]}\n'
             )
         elif self.output_format == "json":
             # Para JSON, coletamos as entradas e as despejamos de uma vez no final

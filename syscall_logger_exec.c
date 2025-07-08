@@ -59,7 +59,7 @@ int main(int argc, char *argv[]) {
             ptrace(PTRACE_GETREGS, child, NULL, &regs);
 
 #ifdef __x86_64__
-            long syscall_num = regs.orig_rax;
+            long syscall_num = regs.orig_rax; 
 #else
 #error Este código é apenas para arquitetura x86_64
 #endif

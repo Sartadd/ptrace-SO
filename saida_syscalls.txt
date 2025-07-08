@@ -1,0 +1,462 @@
+[PID 7782] [1752016857.482733201] Entering syscall: 59 (arg1: 140737205127712, arg2: 140737205128544, arg3: 140737205128576)
+[PID 7782] [1752016857.482957819] Exiting syscall: 59 -> return: -2
+[PID 7782] [1752016857.483018388] Entering syscall: 59 (arg1: 140737205127712, arg2: 140737205128544, arg3: 140737205128576)
+[PID 7782] [1752016857.483103519] Exiting syscall: 59 -> return: -2
+[PID 7782] [1752016857.483153434] Entering syscall: 59 (arg1: 140737205127712, arg2: 140737205128544, arg3: 140737205128576)
+[PID 7782] [1752016857.483292328] Exiting syscall: 59 -> return: -2
+[PID 7782] [1752016857.483344118] Entering syscall: 59 (arg1: 140737205127712, arg2: 140737205128544, arg3: 140737205128576)
+[PID 7782] [1752016857.483655347] Exiting syscall: 59 -> return: 0
+[PID 7782] [1752016857.483705558] Entering syscall: 59 (arg1: 0, arg2: 0, arg3: 0)
+[PID 7782] [1752016857.483771157] Exiting syscall: 12 -> return: -38
+[PID 7782] [1752016857.483815548] Entering syscall: 12 (arg1: 0, arg2: 124967366162968, arg3: 0)
+[PID 7782] [1752016857.483925341] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.483974960] Entering syscall: 9 (arg1: 0, arg2: 8192, arg3: 3)
+[PID 7782] [1752016857.484028723] Exiting syscall: 21 -> return: -38
+[PID 7782] [1752016857.484075777] Entering syscall: 21 (arg1: 124967366133168, arg2: 4, arg3: 95523033955016)
+[PID 7782] [1752016857.484126087] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.484175311] Entering syscall: 257 (arg1: 4294967196, arg2: 124967366128527, arg3: 524288)
+[PID 7782] [1752016857.484219899] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.484436033] Entering syscall: 5 (arg1: 3, arg2: 140737107045184, arg3: 524288)
+[PID 7782] [1752016857.484482101] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.484546616] Entering syscall: 9 (arg1: 0, arg2: 19567, arg3: 1)
+[PID 7782] [1752016857.484595445] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.484646939] Entering syscall: 3 (arg1: 3, arg2: 19567, arg3: 1)
+[PID 7782] [1752016857.484704647] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.484764131] Entering syscall: 257 (arg1: 4294967196, arg2: 124967365931328, arg3: 524288)
+[PID 7782] [1752016857.484830125] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.484889115] Entering syscall: 0 (arg1: 3, arg2: 140737107045752, arg3: 832)
+[PID 7782] [1752016857.484932026] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.484982632] Entering syscall: 5 (arg1: 3, arg2: 140737107045392, arg3: 3)
+[PID 7782] [1752016857.485056617] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.485132476] Entering syscall: 9 (arg1: 0, arg2: 181960, arg3: 1)
+[PID 7782] [1752016857.485188014] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.485262294] Entering syscall: 9 (arg1: 124967365750784, arg2: 118784, arg3: 5)
+[PID 7782] [1752016857.485317635] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.485376033] Entering syscall: 9 (arg1: 124967365869568, arg2: 24576, arg3: 1)
+[PID 7782] [1752016857.485610614] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.486021870] Entering syscall: 9 (arg1: 124967365894144, arg2: 8192, arg3: 3)
+[PID 7782] [1752016857.486573007] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.486733998] Entering syscall: 9 (arg1: 124967365902336, arg2: 5832, arg3: 3)
+[PID 7782] [1752016857.487182246] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.487556806] Entering syscall: 3 (arg1: 3, arg2: 124967365931376, arg3: 124967365726976)
+[PID 7782] [1752016857.487707143] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.487792077] Entering syscall: 257 (arg1: 4294967196, arg2: 124967365932688, arg3: 524288)
+[PID 7782] [1752016857.487854126] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.487921896] Entering syscall: 0 (arg1: 3, arg2: 140737107045720, arg3: 832)
+[PID 7782] [1752016857.487985128] Exiting syscall: 17 -> return: -38
+[PID 7782] [1752016857.488075390] Entering syscall: 17 (arg1: 3, arg2: 140737107044720, arg3: 784)
+[PID 7782] [1752016857.488145724] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.488299415] Entering syscall: 5 (arg1: 3, arg2: 140737107045360, arg3: 3)
+[PID 7782] [1752016857.488398160] Exiting syscall: 17 -> return: -38
+[PID 7782] [1752016857.488461491] Entering syscall: 17 (arg1: 3, arg2: 140737107044416, arg3: 784)
+[PID 7782] [1752016857.488538928] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.488633333] Entering syscall: 9 (arg1: 0, arg2: 2170256, arg3: 1)
+[PID 7782] [1752016857.488682459] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.488775877] Entering syscall: 9 (arg1: 124967362658304, arg2: 1605632, arg3: 5)
+[PID 7782] [1752016857.488835163] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.488900171] Entering syscall: 9 (arg1: 124967364263936, arg2: 323584, arg3: 1)
+[PID 7782] [1752016857.489048239] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.489112852] Entering syscall: 9 (arg1: 124967364587520, arg2: 24576, arg3: 3)
+[PID 7782] [1752016857.489182792] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.489240500] Entering syscall: 9 (arg1: 124967364612096, arg2: 52624, arg3: 3)
+[PID 7782] [1752016857.489323462] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.489371207] Entering syscall: 3 (arg1: 3, arg2: 124967365932720, arg3: 1)
+[PID 7782] [1752016857.489436708] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.489519867] Entering syscall: 257 (arg1: 4294967196, arg2: 124967365934016, arg3: 524288)
+[PID 7782] [1752016857.489567118] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.489623051] Entering syscall: 0 (arg1: 3, arg2: 140737107045688, arg3: 832)
+[PID 7782] [1752016857.489678589] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.489731660] Entering syscall: 5 (arg1: 3, arg2: 140737107045328, arg3: 3)
+[PID 7782] [1752016857.489789763] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.489847964] Entering syscall: 9 (arg1: 0, arg2: 627472, arg3: 1)
+[PID 7782] [1752016857.489893341] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.489959632] Entering syscall: 9 (arg1: 124967365103616, arg2: 450560, arg3: 5)
+[PID 7782] [1752016857.490029671] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.490095566] Entering syscall: 9 (arg1: 124967365554176, arg2: 163840, arg3: 1)
+[PID 7782] [1752016857.490150019] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.490217394] Entering syscall: 9 (arg1: 124967365718016, arg2: 8192, arg3: 3)
+[PID 7782] [1752016857.490322058] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.490369211] Entering syscall: 3 (arg1: 3, arg2: 124967365934064, arg3: 124967365096136)
+[PID 7782] [1752016857.490448227] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.490505639] Entering syscall: 9 (arg1: 0, arg2: 12288, arg3: 3)
+[PID 7782] [1752016857.490563939] Exiting syscall: 158 -> return: -38
+[PID 7782] [1752016857.490606751] Entering syscall: 158 (arg1: 4098, arg2: 124967365085184, arg3: -124967365087632)
+[PID 7782] [1752016857.490651931] Exiting syscall: 218 -> return: -38
+[PID 7782] [1752016857.490678960] Entering syscall: 218 (arg1: 124967365085904, arg2: 124967365085184, arg3: 124967366172872)
+[PID 7782] [1752016857.490727889] Exiting syscall: 273 -> return: -38
+[PID 7782] [1752016857.490781158] Entering syscall: 273 (arg1: 124967365085920, arg2: 24, arg3: 124967366172872)
+[PID 7782] [1752016857.490855340] Exiting syscall: 334 -> return: -38
+[PID 7782] [1752016857.490899928] Entering syscall: 334 (arg1: 124967365087520, arg2: 32, arg3: 0)
+[PID 7782] [1752016857.491048982] Exiting syscall: 10 -> return: -38
+[PID 7782] [1752016857.491113004] Entering syscall: 10 (arg1: 124967364587520, arg2: 16384, arg3: 1)
+[PID 7782] [1752016857.491169331] Exiting syscall: 10 -> return: -38
+[PID 7782] [1752016857.491236903] Entering syscall: 10 (arg1: 124967365718016, arg2: 4096, arg3: 1)
+[PID 7782] [1752016857.491328349] Exiting syscall: 10 -> return: -38
+[PID 7782] [1752016857.491391088] Entering syscall: 10 (arg1: 124967365894144, arg2: 4096, arg3: 1)
+[PID 7782] [1752016857.491476614] Exiting syscall: 10 -> return: -38
+[PID 7782] [1752016857.491536788] Entering syscall: 10 (arg1: 95523033948160, arg2: 8192, arg3: 1)
+[PID 7782] [1752016857.491623893] Exiting syscall: 10 -> return: -38
+[PID 7782] [1752016857.491684856] Entering syscall: 10 (arg1: 124967366160384, arg2: 8192, arg3: 1)
+[PID 7782] [1752016857.491747891] Exiting syscall: 302 -> return: -38
+[PID 7782] [1752016857.491792578] Entering syscall: 302 (arg1: 0, arg2: 3, arg3: 0)
+[PID 7782] [1752016857.491849891] Exiting syscall: 11 -> return: -38
+[PID 7782] [1752016857.491910263] Entering syscall: 11 (arg1: 124967365910528, arg2: 19567, arg3: 0)
+[PID 7782] [1752016857.491981288] Exiting syscall: 137 -> return: -38
+[PID 7782] [1752016857.492046493] Entering syscall: 137 (arg1: 124967365870071, arg2: 140737107048896, arg3: 0)
+[PID 7782] [1752016857.492101933] Exiting syscall: 137 -> return: -38
+[PID 7782] [1752016857.492152834] Entering syscall: 137 (arg1: 124967365870078, arg2: 140737107048896, arg3: 0)
+[PID 7782] [1752016857.492212712] Exiting syscall: 318 -> return: -38
+[PID 7782] [1752016857.492269138] Entering syscall: 318 (arg1: 124967364632952, arg2: 8, arg3: 1)
+[PID 7782] [1752016857.492320631] Exiting syscall: 12 -> return: -38
+[PID 7782] [1752016857.492365811] Entering syscall: 12 (arg1: 0, arg2: 124967364606752, arg3: 124967364606752)
+[PID 7782] [1752016857.492416220] Exiting syscall: 12 -> return: -38
+[PID 7782] [1752016857.492476295] Entering syscall: 12 (arg1: 95523212738560, arg2: 124967364606752, arg3: 124967364636016)
+[PID 7782] [1752016857.492546827] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.492611440] Entering syscall: 257 (arg1: 4294967196, arg2: 124967365870043, arg3: 524288)
+[PID 7782] [1752016857.492660369] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.492715512] Entering syscall: 5 (arg1: 3, arg2: 140737107048544, arg3: 124967364599520)
+[PID 7782] [1752016857.492764737] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.492833000] Entering syscall: 0 (arg1: 3, arg2: 95523212604672, arg3: 1024)
+[PID 7782] [1752016857.492949994] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.493028024] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.493084548] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.493171554] Entering syscall: 257 (arg1: 4294967196, arg2: 124967365870087, arg3: 524288)
+[PID 7782] [1752016857.493227782] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.493284997] Entering syscall: 5 (arg1: 3, arg2: 140737107048640, arg3: 124967364599520)
+[PID 7782] [1752016857.493348821] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.493484460] Entering syscall: 0 (arg1: 3, arg2: 95523212604672, arg3: 1024)
+[PID 7782] [1752016857.493539702] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.493629864] Entering syscall: 0 (arg1: 3, arg2: 95523212604672, arg3: 1024)
+[PID 7782] [1752016857.493678300] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.493748043] Entering syscall: 0 (arg1: 3, arg2: 95523212604672, arg3: 1024)
+[PID 7782] [1752016857.493800818] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.493846985] Entering syscall: 0 (arg1: 3, arg2: 95523212604672, arg3: 1024)
+[PID 7782] [1752016857.493892066] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.493967629] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.494020602] Exiting syscall: 21 -> return: -38
+[PID 7782] [1752016857.494079001] Entering syscall: 21 (arg1: 124967365870111, arg2: 0, arg3: 23321096827)
+[PID 7782] [1752016857.494155649] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.494214048] Entering syscall: 257 (arg1: 4294967196, arg2: 124967364413616, arg3: 524288)
+[PID 7782] [1752016857.494260017] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.494315653] Entering syscall: 257 (arg1: 4294967196, arg2: 140737107047536, arg3: 524288)
+[PID 7782] [1752016857.494361129] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.494406408] Entering syscall: 5 (arg1: 3, arg2: 140737107047040, arg3: 124967364599520)
+[PID 7782] [1752016857.494480195] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.494571443] Entering syscall: 0 (arg1: 3, arg2: 95523212606240, arg3: 4096)
+[PID 7782] [1752016857.494626882] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.494671865] Entering syscall: 0 (arg1: 3, arg2: 95523212606240, arg3: 4096)
+[PID 7782] [1752016857.494729277] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.494774556] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.494825654] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.494875273] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212606416, arg3: 524288)
+[PID 7782] [1752016857.494919862] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.495000061] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212606672, arg3: 524288)
+[PID 7782] [1752016857.495045833] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.495090618] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.495135404] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.495193013] Entering syscall: 9 (arg1: 0, arg2: 258, arg3: 1)
+[PID 7782] [1752016857.495237207] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.495281006] Entering syscall: 3 (arg1: 3, arg2: 258, arg3: 1)
+[PID 7782] [1752016857.495332104] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.495385275] Entering syscall: 257 (arg1: 4294967196, arg2: 124967364395152, arg3: 524288)
+[PID 7782] [1752016857.495438544] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.495482934] Entering syscall: 5 (arg1: 3, arg2: 140737107047488, arg3: 0)
+[PID 7782] [1752016857.495527621] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.495578621] Entering syscall: 9 (arg1: 0, arg2: 27028, arg3: 1)
+[PID 7782] [1752016857.495623012] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.495666811] Entering syscall: 3 (arg1: 3, arg2: 27028, arg3: 1)
+[PID 7782] [1752016857.495716825] Exiting syscall: 202 -> return: -38
+[PID 7782] [1752016857.495762202] Entering syscall: 202 (arg1: 124967364609836, arg2: 129, arg3: 2147483647)
+[PID 7782] [1752016857.495811130] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.495859073] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212606816, arg3: 524288)
+[PID 7782] [1752016857.495903266] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.495955351] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212607488, arg3: 524288)
+[PID 7782] [1752016857.496006056] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.496060114] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.496108549] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.496159253] Entering syscall: 9 (arg1: 0, arg2: 23, arg3: 1)
+[PID 7782] [1752016857.496203940] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.496247640] Entering syscall: 3 (arg1: 3, arg2: 23, arg3: 1)
+[PID 7782] [1752016857.496298542] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.496346878] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212607616, arg3: 524288)
+[PID 7782] [1752016857.496391466] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.496450161] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212608176, arg3: 524288)
+[PID 7782] [1752016857.496494848] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.496558376] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.496618353] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.496672214] Entering syscall: 9 (arg1: 0, arg2: 47, arg3: 1)
+[PID 7782] [1752016857.496716900] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.496760601] Entering syscall: 3 (arg1: 3, arg2: 47, arg3: 1)
+[PID 7782] [1752016857.496811404] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.496859444] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212608640, arg3: 524288)
+[PID 7782] [1752016857.496947634] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.497024184] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212608880, arg3: 524288)
+[PID 7782] [1752016857.497097478] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.497145617] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.497190205] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.497240120] Entering syscall: 9 (arg1: 0, arg2: 127, arg3: 1)
+[PID 7782] [1752016857.497284610] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.497328803] Entering syscall: 3 (arg1: 3, arg2: 127, arg3: 1)
+[PID 7782] [1752016857.497380592] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.497434355] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212609408, arg3: 524288)
+[PID 7782] [1752016857.497487426] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.497543556] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212609648, arg3: 524288)
+[PID 7782] [1752016857.497593175] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.497643287] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.497692709] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.497748740] Entering syscall: 9 (arg1: 0, arg2: 62, arg3: 1)
+[PID 7782] [1752016857.497798754] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.497847978] Entering syscall: 3 (arg1: 3, arg2: 62, arg3: 1)
+[PID 7782] [1752016857.497930545] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.497982335] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212610000, arg3: 524288)
+[PID 7782] [1752016857.498037083] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.498088577] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212610240, arg3: 524288)
+[PID 7782] [1752016857.498133658] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.498178838] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.498224018] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.498275314] Entering syscall: 9 (arg1: 0, arg2: 34, arg3: 1)
+[PID 7782] [1752016857.498320198] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.498364392] Entering syscall: 3 (arg1: 3, arg2: 34, arg3: 1)
+[PID 7782] [1752016857.498417858] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.498466885] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212614112, arg3: 524288)
+[PID 7782] [1752016857.498512164] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.498573226] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212614960, arg3: 524288)
+[PID 7782] [1752016857.498627481] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.498670886] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.498751578] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.498803762] Entering syscall: 3 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.498849435] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.498906749] Entering syscall: 257 (arg1: 4294967196, arg2: 140737107047904, arg3: 524288)
+[PID 7782] [1752016857.498952126] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.498997602] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.499042683] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.499093486] Entering syscall: 9 (arg1: 0, arg2: 48, arg3: 1)
+[PID 7782] [1752016857.499138370] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.499182958] Entering syscall: 3 (arg1: 3, arg2: 48, arg3: 1)
+[PID 7782] [1752016857.499239088] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.499288510] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212615088, arg3: 524288)
+[PID 7782] [1752016857.499333690] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.499383802] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212615936, arg3: 524288)
+[PID 7782] [1752016857.499428686] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.499473965] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.499519145] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.499584744] Entering syscall: 9 (arg1: 0, arg2: 270, arg3: 1)
+[PID 7782] [1752016857.499629530] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.499673625] Entering syscall: 3 (arg1: 3, arg2: 270, arg3: 1)
+[PID 7782] [1752016857.499725019] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.499773751] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212616720, arg3: 524288)
+[PID 7782] [1752016857.499818635] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.499868254] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212616960, arg3: 524288)
+[PID 7782] [1752016857.499920339] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.499965519] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.500010304] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.500060417] Entering syscall: 9 (arg1: 0, arg2: 1406, arg3: 1)
+[PID 7782] [1752016857.500105005] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.500149198] Entering syscall: 3 (arg1: 3, arg2: 1406, arg3: 1)
+[PID 7782] [1752016857.500200396] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.500248831] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212617536, arg3: 524288)
+[PID 7782] [1752016857.500293912] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.500343630] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212617776, arg3: 524288)
+[PID 7782] [1752016857.500388514] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.500433300] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.500477888] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.500528000] Entering syscall: 9 (arg1: 0, arg2: 3360, arg3: 1)
+[PID 7782] [1752016857.500572687] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.500616880] Entering syscall: 3 (arg1: 3, arg2: 3360, arg3: 1)
+[PID 7782] [1752016857.500672122] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.500720656] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212619472, arg3: 524288)
+[PID 7782] [1752016857.500985916] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.501048260] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212619712, arg3: 524288)
+[PID 7782] [1752016857.501104587] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.501154009] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.501206686] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.501266269] Entering syscall: 9 (arg1: 0, arg2: 50, arg3: 1)
+[PID 7782] [1752016857.501311449] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.501355642] Entering syscall: 3 (arg1: 3, arg2: 50, arg3: 1)
+[PID 7782] [1752016857.501406741] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.501455965] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212620176, arg3: 524288)
+[PID 7782] [1752016857.501500948] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.501551060] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212620416, arg3: 524288)
+[PID 7782] [1752016857.501595648] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.501640039] Entering syscall: 5 (arg1: 3, arg2: 140737107047984, arg3: 0)
+[PID 7782] [1752016857.501684036] Exiting syscall: 9 -> return: -38
+[PID 7782] [1752016857.501733852] Entering syscall: 9 (arg1: 0, arg2: 360460, arg3: 1)
+[PID 7782] [1752016857.501778539] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.501830723] Entering syscall: 3 (arg1: 3, arg2: 360460, arg3: 1)
+[PID 7782] [1752016857.501951959] Exiting syscall: 16 -> return: -38
+[PID 7782] [1752016857.502022195] Entering syscall: 16 (arg1: 1, arg2: 21505, arg3: 140737107048544)
+[PID 7782] [1752016857.502144122] Exiting syscall: 332 -> return: -38
+[PID 7782] [1752016857.502197193] Entering syscall: 332 (arg1: 4294967196, arg2: 140737107052469, arg3: 2304)
+[PID 7782] [1752016857.502255099] Exiting syscall: 192 -> return: -38
+[PID 7782] [1752016857.502317739] Entering syscall: 192 (arg1: 140737107052469, arg2: 124967365869975, arg3: 95523212643104)
+[PID 7782] [1752016857.502407606] Exiting syscall: 194 -> return: -38
+[PID 7782] [1752016857.502458803] Entering syscall: 194 (arg1: 140737107052469, arg2: 140737107047984, arg3: 152)
+[PID 7782] [1752016857.502541469] Exiting syscall: 41 -> return: -38
+[PID 7782] [1752016857.502638833] Entering syscall: 41 (arg1: 1, arg2: 526337, arg3: 0)
+[PID 7782] [1752016857.502690326] Exiting syscall: 42 -> return: -38
+[PID 7782] [1752016857.502803177] Entering syscall: 42 (arg1: 3, arg2: 140737107046512, arg3: 110)
+[PID 7782] [1752016857.502886139] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.502953514] Entering syscall: 3 (arg1: 3, arg2: 140737107046512, arg3: -352)
+[PID 7782] [1752016857.503003725] Exiting syscall: 41 -> return: -38
+[PID 7782] [1752016857.503061729] Entering syscall: 41 (arg1: 1, arg2: 526337, arg3: 0)
+[PID 7782] [1752016857.503112236] Exiting syscall: 42 -> return: -38
+[PID 7782] [1752016857.503175666] Entering syscall: 42 (arg1: 3, arg2: 140737107047008, arg3: 110)
+[PID 7782] [1752016857.503220550] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.503270267] Entering syscall: 3 (arg1: 3, arg2: 140737107047008, arg3: -352)
+[PID 7782] [1752016857.503325312] Exiting syscall: 262 -> return: -38
+[PID 7782] [1752016857.503376115] Entering syscall: 262 (arg1: 4294967196, arg2: 124967364390290, arg3: 140737107046768)
+[PID 7782] [1752016857.503421788] Exiting syscall: 262 -> return: -38
+[PID 7782] [1752016857.503468546] Entering syscall: 262 (arg1: 4294967196, arg2: 124967364374589, arg3: 140737107047104)
+[PID 7782] [1752016857.503517376] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.503567193] Entering syscall: 257 (arg1: 4294967196, arg2: 124967364390290, arg3: 524288)
+[PID 7782] [1752016857.503615332] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.503660019] Entering syscall: 5 (arg1: 3, arg2: 140737107046544, arg3: 124967364599520)
+[PID 7782] [1752016857.503711117] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.503760934] Entering syscall: 0 (arg1: 3, arg2: 95523212643728, arg3: 4096)
+[PID 7782] [1752016857.503854056] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.503923996] Entering syscall: 0 (arg1: 3, arg2: 95523212643728, arg3: 4096)
+[PID 7782] [1752016857.503974010] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.504019486] Entering syscall: 5 (arg1: 3, arg2: 140737107046768, arg3: 0)
+[PID 7782] [1752016857.504085184] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.504136677] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.504187283] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.504239467] Entering syscall: 257 (arg1: 4294967196, arg2: 124967364391712, arg3: 524288)
+[PID 7782] [1752016857.504286620] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.504332194] Entering syscall: 5 (arg1: 3, arg2: 140737107046880, arg3: 124967364599520)
+[PID 7782] [1752016857.504378065] Exiting syscall: 8 -> return: -38
+[PID 7782] [1752016857.504423442] Entering syscall: 8 (arg1: 3, arg2: 0, arg3: 0)
+[PID 7782] [1752016857.504474245] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.504522582] Entering syscall: 0 (arg1: 3, arg2: 95523212643728, arg3: 4096)
+[PID 7782] [1752016857.504570721] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.504615901] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.504685644] Exiting syscall: 41 -> return: -38
+[PID 7782] [1752016857.504744240] Entering syscall: 41 (arg1: 1, arg2: 526337, arg3: 0)
+[PID 7782] [1752016857.504789814] Exiting syscall: 42 -> return: -38
+[PID 7782] [1752016857.504880273] Entering syscall: 42 (arg1: 3, arg2: 140737107045408, arg3: 110)
+[PID 7782] [1752016857.504945478] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.505058231] Entering syscall: 3 (arg1: 3, arg2: 140737107045408, arg3: -352)
+[PID 7782] [1752016857.505108442] Exiting syscall: 41 -> return: -38
+[PID 7782] [1752016857.505163289] Entering syscall: 41 (arg1: 1, arg2: 526337, arg3: 0)
+[PID 7782] [1752016857.505246448] Exiting syscall: 42 -> return: -38
+[PID 7782] [1752016857.505316487] Entering syscall: 42 (arg1: 3, arg2: 140737107045904, arg3: 110)
+[PID 7782] [1752016857.505361963] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.505411779] Entering syscall: 3 (arg1: 3, arg2: 140737107045904, arg3: -352)
+[PID 7782] [1752016857.505457354] Exiting syscall: 262 -> return: -38
+[PID 7782] [1752016857.505504901] Entering syscall: 262 (arg1: 4294967196, arg2: 124967364390290, arg3: 140737107046752)
+[PID 7782] [1752016857.505551265] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.505601476] Entering syscall: 257 (arg1: 4294967196, arg2: 124967364391505, arg3: 524288)
+[PID 7782] [1752016857.505647050] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.505692132] Entering syscall: 5 (arg1: 3, arg2: 140737107046864, arg3: 124967364599520)
+[PID 7782] [1752016857.505743033] Exiting syscall: 8 -> return: -38
+[PID 7782] [1752016857.505787523] Entering syscall: 8 (arg1: 3, arg2: 0, arg3: 0)
+[PID 7782] [1752016857.505848387] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.505897710] Entering syscall: 0 (arg1: 3, arg2: 95523212651648, arg3: 4096)
+[PID 7782] [1752016857.505947527] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.505993496] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.506050316] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.506099935] Entering syscall: 257 (arg1: 4294967196, arg2: 95523212644912, arg3: 591872)
+[PID 7782] [1752016857.506145707] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.506190788] Entering syscall: 5 (arg1: 3, arg2: 140737107047728, arg3: 0)
+[PID 7782] [1752016857.506246622] Exiting syscall: 217 -> return: -38
+[PID 7782] [1752016857.506340829] Entering syscall: 217 (arg1: 3, arg2: 95523212651696, arg3: 32768)
+[PID 7782] [1752016857.506386207] Exiting syscall: 332 -> return: -38
+[PID 7782] [1752016857.506435727] Entering syscall: 332 (arg1: 4294967196, arg2: 140737107046992, arg3: 2304)
+[PID 7782] [1752016857.506473311] Exiting syscall: 192 -> return: -38
+[PID 7782] [1752016857.506533584] Entering syscall: 192 (arg1: 140737107046992, arg2: 124967365869975, arg3: 95523212644944)
+[PID 7782] [1752016857.506654229] Exiting syscall: 194 -> return: -38
+[PID 7782] [1752016857.506703157] Entering syscall: 194 (arg1: 140737107046992, arg2: 140737107047184, arg3: 152)
+[PID 7782] [1752016857.506750113] Exiting syscall: 332 -> return: -38
+[PID 7782] [1752016857.506798055] Entering syscall: 332 (arg1: 4294967196, arg2: 140737107046992, arg3: 2304)
+[PID 7782] [1752016857.506843531] Exiting syscall: 192 -> return: -38
+[PID 7782] [1752016857.506891670] Entering syscall: 192 (arg1: 140737107046992, arg2: 124967365869975, arg3: 95523212645312)
+[PID 7782] [1752016857.506936357] Exiting syscall: 194 -> return: -38
+[PID 7782] [1752016857.506983214] Entering syscall: 194 (arg1: 140737107046992, arg2: 140737107047184, arg3: 152)
+[PID 7782] [1752016857.507029380] Exiting syscall: 332 -> return: -38
+[PID 7782] [1752016857.507076435] Entering syscall: 332 (arg1: 4294967196, arg2: 140737107046992, arg3: 2304)
+[PID 7782] [1752016857.507121516] Exiting syscall: 192 -> return: -38
+[PID 7782] [1752016857.507169261] Entering syscall: 192 (arg1: 140737107046992, arg2: 124967365869975, arg3: 95523212645680)
+[PID 7782] [1752016857.507213947] Exiting syscall: 194 -> return: -38
+[PID 7782] [1752016857.507260706] Entering syscall: 194 (arg1: 140737107046992, arg2: 140737107047184, arg3: 152)
+[PID 7782] [1752016857.507311213] Exiting syscall: 332 -> return: -38
+[PID 7782] [1752016857.507359155] Entering syscall: 332 (arg1: 4294967196, arg2: 140737107047056, arg3: 2304)
+[PID 7782] [1752016857.507409859] Exiting syscall: 192 -> return: -38
+[PID 7782] [1752016857.507465890] Entering syscall: 192 (arg1: 140737107047056, arg2: 124967365869975, arg3: 95523212646048)
+[PID 7782] [1752016857.507516989] Exiting syscall: 194 -> return: -38
+[PID 7782] [1752016857.507574401] Entering syscall: 194 (arg1: 140737107047056, arg2: 140737107047184, arg3: 152)
+[PID 7782] [1752016857.507655685] Exiting syscall: 262 -> return: -38
+[PID 7782] [1752016857.507720397] Entering syscall: 262 (arg1: 4294967196, arg2: 124967364390290, arg3: 140737107045936)
+[PID 7782] [1752016857.507772088] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.507825949] Entering syscall: 257 (arg1: 4294967196, arg2: 124967364391712, arg3: 524288)
+[PID 7782] [1752016857.507872905] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.507927653] Entering syscall: 5 (arg1: 4, arg2: 140737107046048, arg3: 124967364599520)
+[PID 7782] [1752016857.507982106] Exiting syscall: 8 -> return: -38
+[PID 7782] [1752016857.508026497] Entering syscall: 8 (arg1: 4, arg2: 0, arg3: 0)
+[PID 7782] [1752016857.508071973] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.508117745] Entering syscall: 0 (arg1: 4, arg2: 95523212684480, arg3: 4096)
+[PID 7782] [1752016857.508166476] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.508212445] Entering syscall: 3 (arg1: 4, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.508258809] Exiting syscall: 262 -> return: -38
+[PID 7782] [1752016857.508322731] Entering syscall: 262 (arg1: 4294967196, arg2: 124967364390290, arg3: 140737107045920)
+[PID 7782] [1752016857.508368799] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.508417925] Entering syscall: 257 (arg1: 4294967196, arg2: 124967364391505, arg3: 524288)
+[PID 7782] [1752016857.508463302] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.508507989] Entering syscall: 5 (arg1: 4, arg2: 140737107046032, arg3: 124967364599520)
+[PID 7782] [1752016857.508552972] Exiting syscall: 8 -> return: -38
+[PID 7782] [1752016857.508597461] Entering syscall: 8 (arg1: 4, arg2: 0, arg3: 0)
+[PID 7782] [1752016857.508642247] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.508688117] Entering syscall: 0 (arg1: 4, arg2: 95523212684480, arg3: 4096)
+[PID 7782] [1752016857.508736454] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.508781831] Entering syscall: 3 (arg1: 4, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.508829477] Exiting syscall: 332 -> return: -38
+[PID 7782] [1752016857.508878110] Entering syscall: 332 (arg1: 4294967196, arg2: 140737107047056, arg3: 2304)
+[PID 7782] [1752016857.508927334] Exiting syscall: 192 -> return: -38
+[PID 7782] [1752016857.509039397] Entering syscall: 192 (arg1: 140737107047056, arg2: 124967365869975, arg3: 95523212646384)
+[PID 7782] [1752016857.509099571] Exiting syscall: 194 -> return: -38
+[PID 7782] [1752016857.509175528] Entering syscall: 194 (arg1: 140737107047056, arg2: 140737107047184, arg3: 152)
+[PID 7782] [1752016857.509226134] Exiting syscall: 332 -> return: -38
+[PID 7782] [1752016857.509290353] Entering syscall: 332 (arg1: 4294967196, arg2: 140737107046992, arg3: 2304)
+[PID 7782] [1752016857.509338689] Exiting syscall: 192 -> return: -38
+[PID 7782] [1752016857.509394128] Entering syscall: 192 (arg1: 140737107046992, arg2: 124967365869975, arg3: 95523212646688)
+[PID 7782] [1752016857.509442366] Exiting syscall: 194 -> return: -38
+[PID 7782] [1752016857.509491788] Entering syscall: 194 (arg1: 140737107046992, arg2: 140737107047184, arg3: 152)
+[PID 7782] [1752016857.509540224] Exiting syscall: 332 -> return: -38
+[PID 7782] [1752016857.509590533] Entering syscall: 332 (arg1: 4294967196, arg2: 140737107046992, arg3: 2304)
+[PID 7782] [1752016857.509637883] Exiting syscall: 192 -> return: -38
+[PID 7782] [1752016857.509688292] Entering syscall: 192 (arg1: 140737107046992, arg2: 124967365869975, arg3: 95523212647040)
+[PID 7782] [1752016857.509735346] Exiting syscall: 194 -> return: -38
+[PID 7782] [1752016857.509784768] Entering syscall: 194 (arg1: 140737107046992, arg2: 140737107047184, arg3: 152)
+[PID 7782] [1752016857.509832512] Exiting syscall: 217 -> return: -38
+[PID 7782] [1752016857.509879863] Entering syscall: 217 (arg1: 3, arg2: 95523212651696, arg3: 32768)
+[PID 7782] [1752016857.509927114] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.509976733] Entering syscall: 3 (arg1: 3, arg2: 86928, arg3: 54096)total 24
+-rw-r--r-- 1 melqui melqui    0 Jul  8 19:58 remote-wsl-loc.txt
+drwx------ 2 root   root   4096 Jul  8 19:11 snap-private-tmp
+drwx------ 3 root   root   4096 Jul  8 19:37 systemd-private-d67429e298ff4feab826f9bb7cd56d55-polkit.service-w4yxUK
+drwx------ 3 root   root   4096 Jul  8 19:11 systemd-private-d67429e298ff4feab826f9bb7cd56d55-systemd-logind.service-1R6ESA
+drwx------ 3 root   root   4096 Jul  8 19:11 systemd-private-d67429e298ff4feab826f9bb7cd56d55-systemd-resolved.service-jV4WL7
+drwx------ 3 root   root   4096 Jul  8 19:11 systemd-private-d67429e298ff4feab826f9bb7cd56d55-systemd-timesyncd.service-hY7m8d
+drwx------ 3 root   root   4096 Jul  8 19:11 systemd-private-d67429e298ff4feab826f9bb7cd56d55-wsl-pro.service-9v6EGe
+
+[PID 7782] [1752016857.510059695] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.510106749] Entering syscall: 5 (arg1: 1, arg2: 140737107047472, arg3: 124967364599520)
+[PID 7782] [1752016857.510168995] Exiting syscall: 257 -> return: -38
+[PID 7782] [1752016857.510227097] Entering syscall: 257 (arg1: 4294967196, arg2: 124967364381223, arg3: 524288)
+[PID 7782] [1752016857.510277604] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.510323968] Entering syscall: 5 (arg1: 3, arg2: 140737107043248, arg3: 8)
+[PID 7782] [1752016857.510370924] Exiting syscall: 5 -> return: -38
+[PID 7782] [1752016857.510417583] Entering syscall: 5 (arg1: 3, arg2: 140737107042736, arg3: 124967364599520)
+[PID 7782] [1752016857.510473713] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.510522543] Entering syscall: 0 (arg1: 3, arg2: 95523212655760, arg3: 4096)
+[PID 7782] [1752016857.510573938] Exiting syscall: 8 -> return: -38
+[PID 7782] [1752016857.510622570] Entering syscall: 8 (arg1: 3, arg2: -910, arg3: 1)
+[PID 7782] [1752016857.510679884] Exiting syscall: 0 -> return: -38
+[PID 7782] [1752016857.510730785] Entering syscall: 0 (arg1: 3, arg2: 95523212655760, arg3: 4096)
+[PID 7782] [1752016857.510785041] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.510832490] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.510913478] Exiting syscall: 1 -> return: -38
+[PID 7782] [1752016857.510970989] Entering syscall: 1 (arg1: 1, arg2: 95523212651648, arg3: 745)
+[PID 7782] [1752016857.511018438] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.511064604] Entering syscall: 3 (arg1: 1, arg2: 95523212651648, arg3: 124967364599520)
+[PID 7782] [1752016857.511112152] Exiting syscall: 3 -> return: -38
+[PID 7782] [1752016857.511158811] Entering syscall: 3 (arg1: 2, arg2: 1, arg3: 124967364599520)
+[PID 7782] [1752016857.511262883] Exiting syscall: 231 -> return: -38

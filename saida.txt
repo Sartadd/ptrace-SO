@@ -1,0 +1,434 @@
+[PID 2405] [1752420713.480326787] Entering syscall: 59 (arg1: 140729916729296, arg2: 140729916730128, arg3: 140729916730152)
+[PID 2405] [1752420713.480638245] Exiting syscall: 59 -> return: -2
+[PID 2405] [1752420713.480682337] Entering syscall: 59 (arg1: 140729916729296, arg2: 140729916730128, arg3: 140729916730152)
+[PID 2405] [1752420713.480747770] Exiting syscall: 59 -> return: -2
+[PID 2405] [1752420713.480790237] Entering syscall: 59 (arg1: 140729916729296, arg2: 140729916730128, arg3: 140729916730152)
+[PID 2405] [1752420713.480853503] Exiting syscall: 59 -> return: -2
+[PID 2405] [1752420713.480895645] Entering syscall: 59 (arg1: 140729916729296, arg2: 140729916730128, arg3: 140729916730152)
+[PID 2405] [1752420713.481068112] Exiting syscall: 59 -> return: 0
+[PID 2405] [1752420713.481110903] Entering syscall: 59 (arg1: 0, arg2: 0, arg3: 0)
+[PID 2405] [1752420713.481168428] Exiting syscall: 12 -> return: -38
+[PID 2405] [1752420713.481210462] Entering syscall: 12 (arg1: 0, arg2: 132731365796376, arg3: 0)
+[PID 2405] [1752420713.481303087] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.481349562] Entering syscall: 9 (arg1: 0, arg2: 8192, arg3: 3)
+[PID 2405] [1752420713.481508270] Exiting syscall: 21 -> return: -38
+[PID 2405] [1752420713.481557020] Entering syscall: 21 (arg1: 132731365766576, arg2: 4, arg3: 106650197789384)
+[PID 2405] [1752420713.481618012] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.481681387] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365761935, arg3: 524288)
+[PID 2405] [1752420713.481730353] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.481780187] Entering syscall: 5 (arg1: 3, arg2: 140732442054144, arg3: 524288)
+[PID 2405] [1752420713.481822870] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.481872703] Entering syscall: 9 (arg1: 0, arg2: 19567, arg3: 1)
+[PID 2405] [1752420713.481920262] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.481970095] Entering syscall: 3 (arg1: 3, arg2: 19567, arg3: 1)
+[PID 2405] [1752420713.482022312] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.482073228] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365564736, arg3: 524288)
+[PID 2405] [1752420713.482115045] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.482158920] Entering syscall: 0 (arg1: 3, arg2: 140732442054712, arg3: 832)
+[PID 2405] [1752420713.482200953] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.482244070] Entering syscall: 5 (arg1: 3, arg2: 140732442054352, arg3: 3)
+[PID 2405] [1752420713.482286862] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.482358145] Entering syscall: 9 (arg1: 0, arg2: 181960, arg3: 1)
+[PID 2405] [1752420713.482421845] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.482503420] Entering syscall: 9 (arg1: 132731365384192, arg2: 118784, arg3: 5)
+[PID 2405] [1752420713.482561812] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.482620637] Entering syscall: 9 (arg1: 132731365502976, arg2: 24576, arg3: 1)
+[PID 2405] [1752420713.482664078] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.482734278] Entering syscall: 9 (arg1: 132731365527552, arg2: 8192, arg3: 3)
+[PID 2405] [1752420713.482801987] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.482869803] Entering syscall: 9 (arg1: 132731365535744, arg2: 5832, arg3: 3)
+[PID 2405] [1752420713.482940003] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.482988212] Entering syscall: 3 (arg1: 3, arg2: 132731365564784, arg3: 132731365360384)
+[PID 2405] [1752420713.483037828] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.483096112] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365566096, arg3: 524288)
+[PID 2405] [1752420713.483138903] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.483185595] Entering syscall: 0 (arg1: 3, arg2: 140732442054680, arg3: 832)
+[PID 2405] [1752420713.483228495] Exiting syscall: 17 -> return: -38
+[PID 2405] [1752420713.483271612] Entering syscall: 17 (arg1: 3, arg2: 140732442053680, arg3: 784)
+[PID 2405] [1752420713.483313970] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.483726937] Entering syscall: 5 (arg1: 3, arg2: 140732442054320, arg3: 3)
+[PID 2405] [1752420713.483787278] Exiting syscall: 17 -> return: -38
+[PID 2405] [1752420713.483836678] Entering syscall: 17 (arg1: 3, arg2: 140732442053376, arg3: 784)
+[PID 2405] [1752420713.483879903] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.483951512] Entering syscall: 9 (arg1: 0, arg2: 2170256, arg3: 1)
+[PID 2405] [1752420713.484014670] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.484091153] Entering syscall: 9 (arg1: 132731363295232, arg2: 1605632, arg3: 5)
+[PID 2405] [1752420713.484138495] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.484190062] Entering syscall: 9 (arg1: 132731364900864, arg2: 323584, arg3: 1)
+[PID 2405] [1752420713.484233287] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.484285395] Entering syscall: 9 (arg1: 132731365224448, arg2: 24576, arg3: 3)
+[PID 2405] [1752420713.484342162] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.484391128] Entering syscall: 9 (arg1: 132731365249024, arg2: 52624, arg3: 3)
+[PID 2405] [1752420713.484449195] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.484492420] Entering syscall: 3 (arg1: 3, arg2: 132731365566128, arg3: 1)
+[PID 2405] [1752420713.484546045] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.484604545] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365567424, arg3: 524288)
+[PID 2405] [1752420713.484648312] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.484693270] Entering syscall: 0 (arg1: 3, arg2: 140732442054648, arg3: 832)
+[PID 2405] [1752420713.484735953] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.484779070] Entering syscall: 5 (arg1: 3, arg2: 140732442054288, arg3: 3)
+[PID 2405] [1752420713.484826195] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.484875920] Entering syscall: 9 (arg1: 0, arg2: 627472, arg3: 1)
+[PID 2405] [1752420713.484918170] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.484972987] Entering syscall: 9 (arg1: 132731362508800, arg2: 450560, arg3: 5)
+[PID 2405] [1752420713.485023687] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.485072653] Entering syscall: 9 (arg1: 132731362959360, arg2: 163840, arg3: 1)
+[PID 2405] [1752420713.485114795] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.485166903] Entering syscall: 9 (arg1: 132731363123200, arg2: 8192, arg3: 3)
+[PID 2405] [1752420713.485224320] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.485266895] Entering syscall: 3 (arg1: 3, arg2: 132731365567472, arg3: 132731362501320)
+[PID 2405] [1752420713.485319978] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.485367103] Entering syscall: 9 (arg1: 0, arg2: 12288, arg3: 3)
+[PID 2405] [1752420713.485415528] Exiting syscall: 158 -> return: -38
+[PID 2405] [1752420713.485457020] Entering syscall: 158 (arg1: 4098, arg2: 132731365349376, arg3: -132731365351824)
+[PID 2405] [1752420713.485499053] Exiting syscall: 218 -> return: -38
+[PID 2405] [1752420713.485540437] Entering syscall: 218 (arg1: 132731365350096, arg2: 132731365349376, arg3: 132731365806280)
+[PID 2405] [1752420713.485581928] Exiting syscall: 273 -> return: -38
+[PID 2405] [1752420713.485623203] Entering syscall: 273 (arg1: 132731365350112, arg2: 24, arg3: 132731365806280)
+[PID 2405] [1752420713.485665020] Exiting syscall: 334 -> return: -38
+[PID 2405] [1752420713.485706512] Entering syscall: 334 (arg1: 132731365351712, arg2: 32, arg3: 0)
+[PID 2405] [1752420713.485809103] Exiting syscall: 10 -> return: -38
+[PID 2405] [1752420713.485859912] Entering syscall: 10 (arg1: 132731365224448, arg2: 16384, arg3: 1)
+[PID 2405] [1752420713.485906712] Exiting syscall: 10 -> return: -38
+[PID 2405] [1752420713.485956220] Entering syscall: 10 (arg1: 132731363123200, arg2: 4096, arg3: 1)
+[PID 2405] [1752420713.486030103] Exiting syscall: 10 -> return: -38
+[PID 2405] [1752420713.486081670] Entering syscall: 10 (arg1: 132731365527552, arg2: 4096, arg3: 1)
+[PID 2405] [1752420713.486152628] Exiting syscall: 10 -> return: -38
+[PID 2405] [1752420713.486203220] Entering syscall: 10 (arg1: 106650197782528, arg2: 8192, arg3: 1)
+[PID 2405] [1752420713.486575020] Exiting syscall: 10 -> return: -38
+[PID 2405] [1752420713.486649878] Entering syscall: 10 (arg1: 132731365793792, arg2: 8192, arg3: 1)
+[PID 2405] [1752420713.486736437] Exiting syscall: 302 -> return: -38
+[PID 2405] [1752420713.486786270] Entering syscall: 302 (arg1: 0, arg2: 3, arg3: 0)
+[PID 2405] [1752420713.486851053] Exiting syscall: 11 -> return: -38
+[PID 2405] [1752420713.486925153] Entering syscall: 11 (arg1: 132731365543936, arg2: 19567, arg3: 0)
+[PID 2405] [1752420713.487002395] Exiting syscall: 137 -> return: -38
+[PID 2405] [1752420713.487082128] Entering syscall: 137 (arg1: 132731365503479, arg2: 140732442057856, arg3: 0)
+[PID 2405] [1752420713.487140303] Exiting syscall: 137 -> return: -38
+[PID 2405] [1752420713.487198587] Entering syscall: 137 (arg1: 132731365503486, arg2: 140732442057856, arg3: 0)
+[PID 2405] [1752420713.487259687] Exiting syscall: 318 -> return: -38
+[PID 2405] [1752420713.487316128] Entering syscall: 318 (arg1: 132731365269880, arg2: 8, arg3: 1)
+[PID 2405] [1752420713.487376145] Exiting syscall: 12 -> return: -38
+[PID 2405] [1752420713.487428687] Entering syscall: 12 (arg1: 0, arg2: 132731365243680, arg3: 132731365243680)
+[PID 2405] [1752420713.487480362] Exiting syscall: 12 -> return: -38
+[PID 2405] [1752420713.487548178] Entering syscall: 12 (arg1: 106650274406400, arg2: 132731365243680, arg3: 132731365272944)
+[PID 2405] [1752420713.487636253] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.487721945] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365503451, arg3: 524288)
+[PID 2405] [1752420713.487785320] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.487845228] Entering syscall: 5 (arg1: 3, arg2: 140732442057504, arg3: 132731365236448)
+[PID 2405] [1752420713.487905353] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.487976853] Entering syscall: 0 (arg1: 3, arg2: 106650274272512, arg3: 1024)
+[PID 2405] [1752420713.488044453] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.488108803] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 132731365236448)
+[PID 2405] [1752420713.488161995] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.488244870] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365503495, arg3: 524288)
+[PID 2405] [1752420713.488289395] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.488332295] Entering syscall: 5 (arg1: 3, arg2: 140732442057600, arg3: 132731365236448)
+[PID 2405] [1752420713.488381478] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.488480495] Entering syscall: 0 (arg1: 3, arg2: 106650274272512, arg3: 1024)
+[PID 2405] [1752420713.488530112] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.488603237] Entering syscall: 0 (arg1: 3, arg2: 106650274272512, arg3: 1024)
+[PID 2405] [1752420713.488657945] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.488742120] Entering syscall: 0 (arg1: 3, arg2: 106650274272512, arg3: 1024)
+[PID 2405] [1752420713.488807987] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.488867895] Entering syscall: 0 (arg1: 3, arg2: 106650274272512, arg3: 1024)
+[PID 2405] [1752420713.488921087] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.488969187] Entering syscall: 0 (arg1: 3, arg2: 106650274272512, arg3: 1024)
+[PID 2405] [1752420713.489028228] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.489094637] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 132731365236448)
+[PID 2405] [1752420713.489144903] Exiting syscall: 21 -> return: -38
+[PID 2405] [1752420713.489199070] Entering syscall: 21 (arg1: 132731365503519, arg2: 0, arg3: 26037664617)
+[PID 2405] [1752420713.489279995] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.489346403] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365050544, arg3: 524288)
+[PID 2405] [1752420713.489398512] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.489470553] Entering syscall: 257 (arg1: 4294967196, arg2: 140732442056496, arg3: 524288)
+[PID 2405] [1752420713.489518003] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.489796528] Entering syscall: 5 (arg1: 3, arg2: 140732442056000, arg3: 132731365236448)
+[PID 2405] [1752420713.489848745] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.489893487] Entering syscall: 0 (arg1: 3, arg2: 106650274273840, arg3: 4096)
+[PID 2405] [1752420713.489945053] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.489987303] Entering syscall: 0 (arg1: 3, arg2: 106650274273840, arg3: 4096)
+[PID 2405] [1752420713.490033670] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.490085020] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 132731365236448)
+[PID 2405] [1752420713.490137020] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.490186095] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274274016, arg3: 524288)
+[PID 2405] [1752420713.490228670] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.490276012] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274274272, arg3: 524288)
+[PID 2405] [1752420713.490317287] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.490362462] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.490411970] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.490467328] Entering syscall: 9 (arg1: 0, arg2: 258, arg3: 1)
+[PID 2405] [1752420713.490509687] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.490551720] Entering syscall: 3 (arg1: 3, arg2: 258, arg3: 1)
+[PID 2405] [1752420713.490600253] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.490648895] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365032080, arg3: 524288)
+[PID 2405] [1752420713.490690820] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.490732745] Entering syscall: 5 (arg1: 3, arg2: 140732442056448, arg3: 0)
+[PID 2405] [1752420713.490774562] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.490821687] Entering syscall: 9 (arg1: 0, arg2: 27028, arg3: 1)
+[PID 2405] [1752420713.490863287] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.490904128] Entering syscall: 3 (arg1: 3, arg2: 27028, arg3: 1)
+[PID 2405] [1752420713.490948437] Exiting syscall: 202 -> return: -38
+[PID 2405] [1752420713.490990037] Entering syscall: 202 (arg1: 132731365246764, arg2: 129, arg3: 2147483647)
+[PID 2405] [1752420713.491037487] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.491082553] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274274416, arg3: 524288)
+[PID 2405] [1752420713.491123828] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.491168787] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274275088, arg3: 524288)
+[PID 2405] [1752420713.491210278] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.491251987] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.491293695] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.491339953] Entering syscall: 9 (arg1: 0, arg2: 23, arg3: 1)
+[PID 2405] [1752420713.491381770] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.491422720] Entering syscall: 3 (arg1: 3, arg2: 23, arg3: 1)
+[PID 2405] [1752420713.491469953] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.491517403] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274275216, arg3: 524288)
+[PID 2405] [1752420713.491558895] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.491603745] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274275776, arg3: 524288)
+[PID 2405] [1752420713.491645345] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.491687270] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.491728762] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.491778270] Entering syscall: 9 (arg1: 0, arg2: 47, arg3: 1)
+[PID 2405] [1752420713.491820412] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.491861578] Entering syscall: 3 (arg1: 3, arg2: 47, arg3: 1)
+[PID 2405] [1752420713.491909028] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.491953120] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274276240, arg3: 524288)
+[PID 2405] [1752420713.492166428] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.492213553] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274276480, arg3: 524288)
+[PID 2405] [1752420713.492256237] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.492298378] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.492339762] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.492386128] Entering syscall: 9 (arg1: 0, arg2: 127, arg3: 1)
+[PID 2405] [1752420713.492427728] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.492468462] Entering syscall: 3 (arg1: 3, arg2: 127, arg3: 1)
+[PID 2405] [1752420713.492516670] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.492570187] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274277008, arg3: 524288)
+[PID 2405] [1752420713.492612112] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.492657178] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274277248, arg3: 524288)
+[PID 2405] [1752420713.492698670] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.492739945] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.492781112] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.492825853] Entering syscall: 9 (arg1: 0, arg2: 62, arg3: 1)
+[PID 2405] [1752420713.492867128] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.492907862] Entering syscall: 3 (arg1: 3, arg2: 62, arg3: 1)
+[PID 2405] [1752420713.492955853] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.493000270] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274277600, arg3: 524288)
+[PID 2405] [1752420713.493041978] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.493088453] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274277840, arg3: 524288)
+[PID 2405] [1752420713.493130053] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.493171762] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.493213037] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.493260487] Entering syscall: 9 (arg1: 0, arg2: 34, arg3: 1)
+[PID 2405] [1752420713.493302412] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.493343687] Entering syscall: 3 (arg1: 3, arg2: 34, arg3: 1)
+[PID 2405] [1752420713.493392545] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.493506512] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274281712, arg3: 524288)
+[PID 2405] [1752420713.493554395] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.493606612] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274282560, arg3: 524288)
+[PID 2405] [1752420713.493672153] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.493719712] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.493763478] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.493808653] Entering syscall: 3 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.493851987] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.493907887] Entering syscall: 257 (arg1: 4294967196, arg2: 140732442056864, arg3: 524288)
+[PID 2405] [1752420713.493957612] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.494002787] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.494045362] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.494097253] Entering syscall: 9 (arg1: 0, arg2: 48, arg3: 1)
+[PID 2405] [1752420713.494279795] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.494321828] Entering syscall: 3 (arg1: 3, arg2: 48, arg3: 1)
+[PID 2405] [1752420713.494399395] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.494447712] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274282688, arg3: 524288)
+[PID 2405] [1752420713.494489420] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.494535678] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274283536, arg3: 524288)
+[PID 2405] [1752420713.494577495] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.494863170] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.494905962] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.494959803] Entering syscall: 9 (arg1: 0, arg2: 270, arg3: 1)
+[PID 2405] [1752420713.495001945] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.495043112] Entering syscall: 3 (arg1: 3, arg2: 270, arg3: 1)
+[PID 2405] [1752420713.495091645] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.495136387] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274284320, arg3: 524288)
+[PID 2405] [1752420713.495177770] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.495222945] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274284560, arg3: 524288)
+[PID 2405] [1752420713.495264545] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.495305820] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.495347528] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.495392162] Entering syscall: 9 (arg1: 0, arg2: 1406, arg3: 1)
+[PID 2405] [1752420713.495433545] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.495474603] Entering syscall: 3 (arg1: 3, arg2: 1406, arg3: 1)
+[PID 2405] [1752420713.495521620] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.495565387] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274285136, arg3: 524288)
+[PID 2405] [1752420713.495607095] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.495652595] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274285376, arg3: 524288)
+[PID 2405] [1752420713.495693978] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.495735578] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.495776853] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.495824195] Entering syscall: 9 (arg1: 0, arg2: 3360, arg3: 1)
+[PID 2405] [1752420713.495865903] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.495907070] Entering syscall: 3 (arg1: 3, arg2: 3360, arg3: 1)
+[PID 2405] [1752420713.495954845] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.495998937] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274287072, arg3: 524288)
+[PID 2405] [1752420713.496040537] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.496085170] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274287312, arg3: 524288)
+[PID 2405] [1752420713.496126228] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.496167503] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.496208562] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.496256012] Entering syscall: 9 (arg1: 0, arg2: 50, arg3: 1)
+[PID 2405] [1752420713.496297503] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.496338453] Entering syscall: 3 (arg1: 3, arg2: 50, arg3: 1)
+[PID 2405] [1752420713.496388287] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.496432270] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274287776, arg3: 524288)
+[PID 2405] [1752420713.496473870] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.496519153] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274288016, arg3: 524288)
+[PID 2405] [1752420713.496560320] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.496601595] Entering syscall: 5 (arg1: 3, arg2: 140732442056944, arg3: 0)
+[PID 2405] [1752420713.496642978] Exiting syscall: 9 -> return: -38
+[PID 2405] [1752420713.496688478] Entering syscall: 9 (arg1: 0, arg2: 360460, arg3: 1)
+[PID 2405] [1752420713.496729753] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.496770595] Entering syscall: 3 (arg1: 3, arg2: 360460, arg3: 1)
+[PID 2405] [1752420713.496837545] Exiting syscall: 16 -> return: -38
+[PID 2405] [1752420713.496880012] Entering syscall: 16 (arg1: 1, arg2: 21505, arg3: 140732442057504)
+[PID 2405] [1752420713.496957470] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.497288970] Entering syscall: 257 (arg1: 4294967196, arg2: 106650274289712, arg3: 591872)
+[PID 2405] [1752420713.497482345] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.497740287] Entering syscall: 5 (arg1: 3, arg2: 140732442056688, arg3: 0)
+[PID 2405] [1752420713.497791637] Exiting syscall: 217 -> return: -38
+[PID 2405] [1752420713.498116095] Entering syscall: 217 (arg1: 3, arg2: 106650274310800, arg3: 32768)
+[PID 2405] [1752420713.498161270] Exiting syscall: 332 -> return: -38
+[PID 2405] [1752420713.498808453] Entering syscall: 332 (arg1: 4294967196, arg2: 140732442056016, arg3: 2304)
+[PID 2405] [1752420713.498862403] Exiting syscall: 192 -> return: -38
+[PID 2405] [1752420713.499730045] Entering syscall: 192 (arg1: 140732442056016, arg2: 132731365503383, arg3: 106650274343584)
+[PID 2405] [1752420713.499806745] Exiting syscall: 194 -> return: -38
+[PID 2405] [1752420713.500722162] Entering syscall: 194 (arg1: 140732442056016, arg2: 140732442056144, arg3: 152)
+[PID 2405] [1752420713.500799512] Exiting syscall: 41 -> return: -38
+[PID 2405] [1752420713.500864403] Entering syscall: 41 (arg1: 1, arg2: 526337, arg3: 0)
+[PID 2405] [1752420713.500909037] Exiting syscall: 42 -> return: -38
+[PID 2405] [1752420713.500968187] Entering syscall: 42 (arg1: 4, arg2: 140732442054640, arg3: 110)
+[PID 2405] [1752420713.501010328] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.501057237] Entering syscall: 3 (arg1: 4, arg2: 140732442054640, arg3: -352)
+[PID 2405] [1752420713.501099595] Exiting syscall: 41 -> return: -38
+[PID 2405] [1752420713.501145528] Entering syscall: 41 (arg1: 1, arg2: 526337, arg3: 0)
+[PID 2405] [1752420713.501187020] Exiting syscall: 42 -> return: -38
+[PID 2405] [1752420713.501242920] Entering syscall: 42 (arg1: 4, arg2: 140732442055136, arg3: 110)
+[PID 2405] [1752420713.501284737] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.501329045] Entering syscall: 3 (arg1: 4, arg2: 140732442055136, arg3: -352)
+[PID 2405] [1752420713.501376712] Exiting syscall: 262 -> return: -38
+[PID 2405] [1752420713.501423512] Entering syscall: 262 (arg1: 4294967196, arg2: 132731365027218, arg3: 140732442054896)
+[PID 2405] [1752420713.501465870] Exiting syscall: 262 -> return: -38
+[PID 2405] [1752420713.501509203] Entering syscall: 262 (arg1: 4294967196, arg2: 132731365011517, arg3: 140732442055232)
+[PID 2405] [1752420713.501551995] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.501599012] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365027218, arg3: 524288)
+[PID 2405] [1752420713.501642237] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.501683403] Entering syscall: 5 (arg1: 4, arg2: 140732442054672, arg3: 132731365236448)
+[PID 2405] [1752420713.501733345] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.501777653] Entering syscall: 0 (arg1: 4, arg2: 106650274344208, arg3: 4096)
+[PID 2405] [1752420713.501838862] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.501881653] Entering syscall: 0 (arg1: 4, arg2: 106650274344208, arg3: 4096)
+[PID 2405] [1752420713.501925745] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.501967345] Entering syscall: 5 (arg1: 4, arg2: 140732442054896, arg3: 0)
+[PID 2405] [1752420713.502009378] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.502052387] Entering syscall: 3 (arg1: 4, arg2: 1, arg3: 132731365236448)
+[PID 2405] [1752420713.502096587] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.502142412] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365028640, arg3: 524288)
+[PID 2405] [1752420713.502184987] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.502225937] Entering syscall: 5 (arg1: 4, arg2: 140732442055008, arg3: 132731365236448)
+[PID 2405] [1752420713.502267862] Exiting syscall: 8 -> return: -38
+[PID 2405] [1752420713.502308703] Entering syscall: 8 (arg1: 4, arg2: 0, arg3: 0)
+[PID 2405] [1752420713.502394287] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.502438162] Entering syscall: 0 (arg1: 4, arg2: 106650274344208, arg3: 4096)
+[PID 2405] [1752420713.502485070] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.502526995] Entering syscall: 3 (arg1: 4, arg2: 1, arg3: 132731365236448)
+[PID 2405] [1752420713.502736295] Exiting syscall: 41 -> return: -38
+[PID 2405] [1752420713.502784503] Entering syscall: 41 (arg1: 1, arg2: 526337, arg3: 0)
+[PID 2405] [1752420713.502826970] Exiting syscall: 42 -> return: -38
+[PID 2405] [1752420713.502877020] Entering syscall: 42 (arg1: 4, arg2: 140732442053536, arg3: 110)
+[PID 2405] [1752420713.502918837] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.502963687] Entering syscall: 3 (arg1: 4, arg2: 140732442053536, arg3: -352)
+[PID 2405] [1752420713.503005503] Exiting syscall: 41 -> return: -38
+[PID 2405] [1752420713.503050895] Entering syscall: 41 (arg1: 1, arg2: 526337, arg3: 0)
+[PID 2405] [1752420713.503092603] Exiting syscall: 42 -> return: -38
+[PID 2405] [1752420713.503140378] Entering syscall: 42 (arg1: 4, arg2: 140732442054032, arg3: 110)
+[PID 2405] [1752420713.503182303] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.503226612] Entering syscall: 3 (arg1: 4, arg2: 140732442054032, arg3: -352)
+[PID 2405] [1752420713.503268320] Exiting syscall: 262 -> return: -38
+[PID 2405] [1752420713.503311978] Entering syscall: 262 (arg1: 4294967196, arg2: 132731365027218, arg3: 140732442054880)
+[PID 2405] [1752420713.503355528] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.503407745] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365028433, arg3: 524288)
+[PID 2405] [1752420713.503449887] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.503492137] Entering syscall: 5 (arg1: 4, arg2: 140732442054992, arg3: 132731365236448)
+[PID 2405] [1752420713.503538178] Exiting syscall: 8 -> return: -38
+[PID 2405] [1752420713.503579778] Entering syscall: 8 (arg1: 4, arg2: 0, arg3: 0)
+[PID 2405] [1752420713.503621703] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.503664387] Entering syscall: 0 (arg1: 4, arg2: 106650274352128, arg3: 4096)
+[PID 2405] [1752420713.503710970] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.503752895] Entering syscall: 3 (arg1: 4, arg2: 1, arg3: 132731365236448)
+[PID 2405] [1752420713.503799370] Exiting syscall: 332 -> return: -38
+[PID 2405] [1752420713.504390978] Entering syscall: 332 (arg1: 4294967196, arg2: 140732442056016, arg3: 2304)
+[PID 2405] [1752420713.504437670] Exiting syscall: 192 -> return: -38
+[PID 2405] [1752420713.504971103] Entering syscall: 192 (arg1: 140732442056016, arg2: 132731365503383, arg3: 106650274345344)
+[PID 2405] [1752420713.505016495] Exiting syscall: 194 -> return: -38
+[PID 2405] [1752420713.505683287] Entering syscall: 194 (arg1: 140732442056016, arg2: 140732442056144, arg3: 152)
+[PID 2405] [1752420713.505740487] Exiting syscall: 332 -> return: -38
+[PID 2405] [1752420713.506420386] Entering syscall: 332 (arg1: 4294967196, arg2: 140732442056016, arg3: 2304)
+[PID 2405] [1752420713.506472170] Exiting syscall: 192 -> return: -38
+[PID 2405] [1752420713.507361045] Entering syscall: 192 (arg1: 140732442056016, arg2: 132731365503383, arg3: 106650274345648)
+[PID 2405] [1752420713.507431895] Exiting syscall: 194 -> return: -38
+[PID 2405] [1752420713.508447628] Entering syscall: 194 (arg1: 140732442056016, arg2: 140732442056144, arg3: 152)
+[PID 2405] [1752420713.508511545] Exiting syscall: 332 -> return: -38
+[PID 2405] [1752420713.509231636] Entering syscall: 332 (arg1: 4294967196, arg2: 140732442056016, arg3: 2304)
+[PID 2405] [1752420713.509285911] Exiting syscall: 192 -> return: -38
+[PID 2405] [1752420713.509876653] Entering syscall: 192 (arg1: 140732442056016, arg2: 132731365503383, arg3: 106650274345952)
+[PID 2405] [1752420713.509932011] Exiting syscall: 194 -> return: -38
+[PID 2405] [1752420713.510658711] Entering syscall: 194 (arg1: 140732442056016, arg2: 140732442056144, arg3: 152)
+[PID 2405] [1752420713.510710386] Exiting syscall: 332 -> return: -38
+[PID 2405] [1752420713.510956086] Entering syscall: 332 (arg1: 4294967196, arg2: 140732442056016, arg3: 2304)
+[PID 2405] [1752420713.511013720] Exiting syscall: 192 -> return: -38
+[PID 2405] [1752420713.511234070] Entering syscall: 192 (arg1: 140732total 64
+-rwxrwxrwx 1 manel manel    29 Jul  7 19:17 README.md
+-rwxrwxrwx 1 manel manel     0 Jul 13 12:28 main.py
+-rwxrwxrwx 1 manel manel    13 Jul  7 19:17 requirements.txt
+-rwxrwxrwx 1 manel manel  7861 Jul  8 19:12 run_syscall_logger.sh
+-rwxrwxrwx 1 manel manel 28672 Jul 13  2025 saida.txt
+-rwxrwxrwx 1 manel manel 16520 Jul 13 12:26 syscall_logger_exec
+-rwxrwxrwx 1 manel manel  2172 Jul  8 20:14 syscall_logger_exec.c
+442056016, arg2: 132731365503383, arg3: 106650274346256)
+[PID 2405] [1752420713.511435461] Exiting syscall: 194 -> return: -38
+[PID 2405] [1752420713.512082645] Entering syscall: 194 (arg1: 140732442056016, arg2: 140732442056144, arg3: 152)
+[PID 2405] [1752420713.512177436] Exiting syscall: 332 -> return: -38
+[PID 2405] [1752420713.512772511] Entering syscall: 332 (arg1: 4294967196, arg2: 140732442056016, arg3: 2304)
+[PID 2405] [1752420713.512832636] Exiting syscall: 192 -> return: -38
+[PID 2405] [1752420713.513174320] Entering syscall: 192 (arg1: 140732442056016, arg2: 132731365503383, arg3: 106650274346560)
+[PID 2405] [1752420713.513223286] Exiting syscall: 194 -> return: -38
+[PID 2405] [1752420713.513595303] Entering syscall: 194 (arg1: 140732442056016, arg2: 140732442056144, arg3: 152)
+[PID 2405] [1752420713.513648603] Exiting syscall: 332 -> return: -38
+[PID 2405] [1752420713.514253211] Entering syscall: 332 (arg1: 4294967196, arg2: 140732442056016, arg3: 2304)
+[PID 2405] [1752420713.514299470] Exiting syscall: 192 -> return: -38
+[PID 2405] [1752420713.514909278] Entering syscall: 192 (arg1: 140732442056016, arg2: 132731365503383, arg3: 106650274346864)
+[PID 2405] [1752420713.514955320] Exiting syscall: 194 -> return: -38
+[PID 2405] [1752420713.516030853] Entering syscall: 194 (arg1: 140732442056016, arg2: 140732442056144, arg3: 152)
+[PID 2405] [1752420713.516105061] Exiting syscall: 217 -> return: -38
+[PID 2405] [1752420713.516425945] Entering syscall: 217 (arg1: 3, arg2: 106650274310800, arg3: 32768)
+[PID 2405] [1752420713.516494303] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.516741195] Entering syscall: 3 (arg1: 3, arg2: 32832, arg3: 132731365243680)
+[PID 2405] [1752420713.516813345] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.517084178] Entering syscall: 5 (arg1: 1, arg2: 140732442056432, arg3: 132731365236448)
+[PID 2405] [1752420713.517147661] Exiting syscall: 257 -> return: -38
+[PID 2405] [1752420713.517206053] Entering syscall: 257 (arg1: 4294967196, arg2: 132731365018151, arg3: 524288)
+[PID 2405] [1752420713.517249386] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.517291745] Entering syscall: 5 (arg1: 3, arg2: 140732442052208, arg3: 8)
+[PID 2405] [1752420713.517334211] Exiting syscall: 5 -> return: -38
+[PID 2405] [1752420713.517376353] Entering syscall: 5 (arg1: 3, arg2: 140732442051696, arg3: 132731365236448)
+[PID 2405] [1752420713.517423586] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.517468653] Entering syscall: 0 (arg1: 3, arg2: 106650274314864, arg3: 4096)
+[PID 2405] [1752420713.517596486] Exiting syscall: 8 -> return: -38
+[PID 2405] [1752420713.517648811] Entering syscall: 8 (arg1: 3, arg2: -910, arg3: 1)
+[PID 2405] [1752420713.517696911] Exiting syscall: 0 -> return: -38
+[PID 2405] [1752420713.517745878] Entering syscall: 0 (arg1: 3, arg2: 106650274314864, arg3: 4096)
+[PID 2405] [1752420713.517801020] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.517849553] Entering syscall: 3 (arg1: 3, arg2: 1, arg3: 132731365236448)
+[PID 2405] [1752420713.517924086] Exiting syscall: 1 -> return: -38
+[PID 2405] [1752420713.518222111] Entering syscall: 1 (arg1: 1, arg2: 106650274310752, arg3: 426)
+[PID 2405] [1752420713.518275953] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.518323945] Entering syscall: 3 (arg1: 1, arg2: 106650274310752, arg3: 132731365236448)
+[PID 2405] [1752420713.518422745] Exiting syscall: 3 -> return: -38
+[PID 2405] [1752420713.518468245] Entering syscall: 3 (arg1: 2, arg2: 1, arg3: 132731365236448)
+[PID 2405] [1752420713.518544511] Exiting syscall: 231 -> return: -38

@@ -10,23 +10,42 @@
 #include <errno.h>
 #include <time.h>
 
+// Mapeia números de syscalls para nomes
+const char* syscall_name(long syscall_num) {
+    switch (syscall_num) {
+        case 0: return "read";
+        case 1: return "write";
+        case 2: return "open";
+        case 3: return "close";
+        case 5: return "fstat";
+        case 9: return "mmap";
+        case 59: return "execve";
+        case 60: return "exit";
+        case 231: return "exit_group";
+        case 257: return "openat";
+        default: return "unknown";
+    }
+}
+
+// Função para imprimir informações da syscall
 void log_syscall(pid_t pid, struct user_regs_struct regs, long syscall_ret, int entering) {
     struct timespec ts;
     clock_gettime(CLOCK_REALTIME, &ts);
 
+    const char *name = syscall_name(regs.orig_rax);
+
     if (entering) {
-        printf("[PID %d] [%ld.%09ld] Entering syscall: %lld (arg1: %lld, arg2: %lld, arg3: %lld)\n",
+        printf("[PID %d] [%ld.%09ld] Entering syscall: %s (%lld) (arg1: %lld, arg2: %lld, arg3: %lld)\n",
                pid, ts.tv_sec, ts.tv_nsec,
-               (long long)regs.orig_rax,
+               name, (long long)regs.orig_rax,
                (long long)regs.rdi,
                (long long)regs.rsi,
                (long long)regs.rdx);
     } else {
-       printf("[PID %d] [%ld.%09ld] Exiting syscall: %lld -> return: %lld\n",
-       pid, ts.tv_sec, ts.tv_nsec,
-       (long long)regs.orig_rax,
-       (long long)syscall_ret);
-
+        printf("[PID %d] [%ld.%09ld] Exiting syscall: %s (%lld) -> return: %lld\n",
+               pid, ts.tv_sec, ts.tv_nsec,
+               name, (long long)regs.orig_rax,
+               (long long)syscall_ret);
     }
 }
 

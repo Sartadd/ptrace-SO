@@ -142,3 +142,6 @@ Desktop.ini
 *.pch
 *.sym
 *.dSYM/
+
+#venv
+.venv

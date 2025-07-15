@@ -1,0 +1,448 @@
+[PID 682] [1752447511.880032703] Entering syscall: execve (59) (arg1: 140727271607104, arg2: 140727271607936, arg3: 140727271607960)
+[PID 682] [1752447511.880313303] Exiting syscall: execve (59) -> return: -2
+[PID 682] [1752447511.880354203] Entering syscall: execve (59) (arg1: 140727271607104, arg2: 140727271607936, arg3: 140727271607960)
+[PID 682] [1752447511.880413703] Exiting syscall: execve (59) -> return: -2
+[PID 682] [1752447511.880460303] Entering syscall: execve (59) (arg1: 140727271607104, arg2: 140727271607936, arg3: 140727271607960)
+[PID 682] [1752447511.880550903] Exiting syscall: execve (59) -> return: -2
+[PID 682] [1752447511.880597603] Entering syscall: execve (59) (arg1: 140727271607104, arg2: 140727271607936, arg3: 140727271607960)
+[PID 682] [1752447511.880760903] Exiting syscall: execve (59) -> return: 0
+[PID 682] [1752447511.880801003] Entering syscall: execve (59) (arg1: 0, arg2: 0, arg3: 0)
+[PID 682] [1752447511.880854903] Exiting syscall: unknown (12) -> return: -38
+[PID 682] [1752447511.880893703] Entering syscall: unknown (12) (arg1: 0, arg2: 138128238934552, arg3: 0)
+[PID 682] [1752447511.880993803] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.881045903] Entering syscall: mmap (9) (arg1: 0, arg2: 8192, arg3: 3)
+[PID 682] [1752447511.881106203] Exiting syscall: unknown (21) -> return: -38
+[PID 682] [1752447511.881154403] Entering syscall: unknown (21) (arg1: 138128238904752, arg2: 4, arg3: 107080829242056)
+[PID 682] [1752447511.881200503] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.881253403] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128238900111, arg3: 524288)
+[PID 682] [1752447511.881293703] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.881334503] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837225600, arg3: 524288)
+[PID 682] [1752447511.881373803] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.881428603] Entering syscall: mmap (9) (arg1: 0, arg2: 19567, arg3: 1)
+[PID 682] [1752447511.881473903] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.881529203] Entering syscall: close (3) (arg1: 3, arg2: 19567, arg3: 1)
+[PID 682] [1752447511.881606103] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.881677803] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128238702912, arg3: 524288)
+[PID 682] [1752447511.881728503] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.881789103] Entering syscall: read (0) (arg1: 3, arg2: 140724837226168, arg3: 832)
+[PID 682] [1752447511.881847603] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.881906503] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837225808, arg3: 3)
+[PID 682] [1752447511.881961803] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.882027803] Entering syscall: mmap (9) (arg1: 0, arg2: 181960, arg3: 1)
+[PID 682] [1752447511.882079803] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.882155703] Entering syscall: mmap (9) (arg1: 138128238522368, arg2: 118784, arg3: 5)
+[PID 682] [1752447511.882202503] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.882254703] Entering syscall: mmap (9) (arg1: 138128238641152, arg2: 24576, arg3: 1)
+[PID 682] [1752447511.882300103] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.882370503] Entering syscall: mmap (9) (arg1: 138128238665728, arg2: 8192, arg3: 3)
+[PID 682] [1752447511.882428903] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.882488803] Entering syscall: mmap (9) (arg1: 138128238673920, arg2: 5832, arg3: 3)
+[PID 682] [1752447511.882563703] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.882649903] Entering syscall: close (3) (arg1: 3, arg2: 138128238702960, arg3: 138128238498560)
+[PID 682] [1752447511.882704903] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.882767503] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128238704272, arg3: 524288)
+[PID 682] [1752447511.882866903] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.882932303] Entering syscall: read (0) (arg1: 3, arg2: 140724837226136, arg3: 832)
+[PID 682] [1752447511.883262703] Exiting syscall: unknown (17) -> return: -38
+[PID 682] [1752447511.883308003] Entering syscall: unknown (17) (arg1: 3, arg2: 140724837225136, arg3: 784)
+[PID 682] [1752447511.883349603] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.883393603] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837225776, arg3: 3)
+[PID 682] [1752447511.883441003] Exiting syscall: unknown (17) -> return: -38
+[PID 682] [1752447511.883484403] Entering syscall: unknown (17) (arg1: 3, arg2: 140724837224832, arg3: 784)
+[PID 682] [1752447511.883535403] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.883592603] Entering syscall: mmap (9) (arg1: 0, arg2: 2170256, arg3: 1)
+[PID 682] [1752447511.883631903] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.883685203] Entering syscall: mmap (9) (arg1: 138128235069440, arg2: 1605632, arg3: 5)
+[PID 682] [1752447511.883725103] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.883771403] Entering syscall: mmap (9) (arg1: 138128236675072, arg2: 323584, arg3: 1)
+[PID 682] [1752447511.883810703] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.883858703] Entering syscall: mmap (9) (arg1: 138128236998656, arg2: 24576, arg3: 3)
+[PID 682] [1752447511.883906103] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.883951203] Entering syscall: mmap (9) (arg1: 138128237023232, arg2: 52624, arg3: 3)
+[PID 682] [1752447511.884004703] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.884044803] Entering syscall: close (3) (arg1: 3, arg2: 138128238704304, arg3: 1)
+[PID 682] [1752447511.884093803] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.884147203] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128238705600, arg3: 524288)
+[PID 682] [1752447511.884187003] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.884227703] Entering syscall: read (0) (arg1: 3, arg2: 140724837226104, arg3: 832)
+[PID 682] [1752447511.884267303] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.884306903] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837225744, arg3: 3)
+[PID 682] [1752447511.884350603] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.884396703] Entering syscall: mmap (9) (arg1: 0, arg2: 627472, arg3: 1)
+[PID 682] [1752447511.884437203] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.884491203] Entering syscall: mmap (9) (arg1: 138128237875200, arg2: 450560, arg3: 5)
+[PID 682] [1752447511.884531203] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.884577203] Entering syscall: mmap (9) (arg1: 138128238325760, arg2: 163840, arg3: 1)
+[PID 682] [1752447511.884616103] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.884660803] Entering syscall: mmap (9) (arg1: 138128238489600, arg2: 8192, arg3: 3)
+[PID 682] [1752447511.884714603] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.884754303] Entering syscall: close (3) (arg1: 3, arg2: 138128238705648, arg3: 138128237867720)
+[PID 682] [1752447511.884804403] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.884847803] Entering syscall: mmap (9) (arg1: 0, arg2: 12288, arg3: 3)
+[PID 682] [1752447511.884892603] Exiting syscall: unknown (158) -> return: -38
+[PID 682] [1752447511.884931403] Entering syscall: unknown (158) (arg1: 4098, arg2: 138128237856768, arg3: -138128237859216)
+[PID 682] [1752447511.884970903] Exiting syscall: unknown (218) -> return: -38
+[PID 682] [1752447511.885009603] Entering syscall: unknown (218) (arg1: 138128237857488, arg2: 138128237856768, arg3: 138128238944456)
+[PID 682] [1752447511.885048303] Exiting syscall: unknown (273) -> return: -38
+[PID 682] [1752447511.885086503] Entering syscall: unknown (273) (arg1: 138128237857504, arg2: 24, arg3: 138128238944456)
+[PID 682] [1752447511.885125003] Exiting syscall: unknown (334) -> return: -38
+[PID 682] [1752447511.885163503] Entering syscall: unknown (334) (arg1: 138128237859104, arg2: 32, arg3: 0)
+[PID 682] [1752447511.885475402] Exiting syscall: unknown (10) -> return: -38
+[PID 682] [1752447511.885524402] Entering syscall: unknown (10) (arg1: 138128236998656, arg2: 16384, arg3: 1)
+[PID 682] [1752447511.885566502] Exiting syscall: unknown (10) -> return: -38
+[PID 682] [1752447511.885612102] Entering syscall: unknown (10) (arg1: 138128238489600, arg2: 4096, arg3: 1)
+[PID 682] [1752447511.885679002] Exiting syscall: unknown (10) -> return: -38
+[PID 682] [1752447511.885725502] Entering syscall: unknown (10) (arg1: 138128238665728, arg2: 4096, arg3: 1)
+[PID 682] [1752447511.885789002] Exiting syscall: unknown (10) -> return: -38
+[PID 682] [1752447511.885833802] Entering syscall: unknown (10) (arg1: 107080829235200, arg2: 8192, arg3: 1)
+[PID 682] [1752447511.885877902] Exiting syscall: unknown (10) -> return: -38
+[PID 682] [1752447511.885928602] Entering syscall: unknown (10) (arg1: 138128238931968, arg2: 8192, arg3: 1)
+[PID 682] [1752447511.885980602] Exiting syscall: unknown (302) -> return: -38
+[PID 682] [1752447511.886019702] Entering syscall: unknown (302) (arg1: 0, arg2: 3, arg3: 0)
+[PID 682] [1752447511.886066802] Exiting syscall: unknown (11) -> return: -38
+[PID 682] [1752447511.886115502] Entering syscall: unknown (11) (arg1: 138128238682112, arg2: 19567, arg3: 0)
+[PID 682] [1752447511.886167302] Exiting syscall: unknown (137) -> return: -38
+[PID 682] [1752447511.886218102] Entering syscall: unknown (137) (arg1: 138128238641655, arg2: 140724837229312, arg3: 0)
+[PID 682] [1752447511.886257602] Exiting syscall: unknown (137) -> return: -38
+[PID 682] [1752447511.886297902] Entering syscall: unknown (137) (arg1: 138128238641662, arg2: 140724837229312, arg3: 0)
+[PID 682] [1752447511.886342602] Exiting syscall: unknown (318) -> return: -38
+[PID 682] [1752447511.886381902] Entering syscall: unknown (318) (arg1: 138128237044088, arg2: 8, arg3: 1)
+[PID 682] [1752447511.886423302] Exiting syscall: unknown (12) -> return: -38
+[PID 682] [1752447511.886573602] Entering syscall: unknown (12) (arg1: 0, arg2: 138128237017888, arg3: 138128237017888)
+[PID 682] [1752447511.886625502] Exiting syscall: unknown (12) -> return: -38
+[PID 682] [1752447511.886671102] Entering syscall: unknown (12) (arg1: 107081530359808, arg2: 138128237017888, arg3: 138128237047152)
+[PID 682] [1752447511.886724402] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.886776202] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128238641627, arg3: 524288)
+[PID 682] [1752447511.886818502] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.886858802] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228960, arg3: 138128237010656)
+[PID 682] [1752447511.886898802] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.886958202] Entering syscall: read (0) (arg1: 3, arg2: 107081530225920, arg3: 1024)
+[PID 682] [1752447511.887007502] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.887061802] Entering syscall: close (3) (arg1: 3, arg2: 1, arg3: 138128237010656)
+[PID 682] [1752447511.887111202] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.887183402] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128238641671, arg3: 524288)
+[PID 682] [1752447511.887226502] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.887274202] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837229056, arg3: 138128237010656)
+[PID 682] [1752447511.887315302] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.887394602] Entering syscall: read (0) (arg1: 3, arg2: 107081530225920, arg3: 1024)
+[PID 682] [1752447511.887448202] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.887507502] Entering syscall: read (0) (arg1: 3, arg2: 107081530225920, arg3: 1024)
+[PID 682] [1752447511.887570202] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.887640202] Entering syscall: read (0) (arg1: 3, arg2: 107081530225920, arg3: 1024)
+[PID 682] [1752447511.887681502] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.887731002] Entering syscall: read (0) (arg1: 3, arg2: 107081530225920, arg3: 1024)
+[PID 682] [1752447511.888003102] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.888045102] Entering syscall: read (0) (arg1: 3, arg2: 107081530225920, arg3: 1024)
+[PID 682] [1752447511.888094902] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.888148602] Entering syscall: close (3) (arg1: 3, arg2: 1, arg3: 138128237010656)
+[PID 682] [1752447511.888190802] Exiting syscall: unknown (21) -> return: -38
+[PID 682] [1752447511.888236602] Entering syscall: unknown (21) (arg1: 138128238641695, arg2: 0, arg3: 26142951715)
+[PID 682] [1752447511.888300302] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.888349702] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128236824752, arg3: 524288)
+[PID 682] [1752447511.888391402] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.888439302] Entering syscall: openat (257) (arg1: 4294967196, arg2: 140724837227952, arg3: 524288)
+[PID 682] [1752447511.888480002] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.888525502] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837227456, arg3: 138128237010656)
+[PID 682] [1752447511.888571602] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.888613202] Entering syscall: read (0) (arg1: 3, arg2: 107081530227248, arg3: 4096)
+[PID 682] [1752447511.888662002] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.888701402] Entering syscall: read (0) (arg1: 3, arg2: 107081530227248, arg3: 4096)
+[PID 682] [1752447511.888740602] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.888780102] Entering syscall: close (3) (arg1: 3, arg2: 1, arg3: 138128237010656)
+[PID 682] [1752447511.888825302] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.888867002] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530227424, arg3: 524288)
+[PID 682] [1752447511.888905902] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.888948502] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530227680, arg3: 524288)
+[PID 682] [1752447511.888987302] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.889026402] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.889065302] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.889116102] Entering syscall: mmap (9) (arg1: 0, arg2: 258, arg3: 1)
+[PID 682] [1752447511.889155402] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.889194202] Entering syscall: close (3) (arg1: 3, arg2: 258, arg3: 1)
+[PID 682] [1752447511.889237502] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.889280902] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128236806288, arg3: 524288)
+[PID 682] [1752447511.889319302] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.889358002] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837227904, arg3: 0)
+[PID 682] [1752447511.889396602] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.889439302] Entering syscall: mmap (9) (arg1: 0, arg2: 27028, arg3: 1)
+[PID 682] [1752447511.889478102] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.889523502] Entering syscall: close (3) (arg1: 3, arg2: 27028, arg3: 1)
+[PID 682] [1752447511.889566402] Exiting syscall: unknown (202) -> return: -38
+[PID 682] [1752447511.889606102] Entering syscall: unknown (202) (arg1: 138128237020972, arg2: 129, arg3: 2147483647)
+[PID 682] [1752447511.889649202] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.889691102] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530227824, arg3: 524288)
+[PID 682] [1752447511.889730202] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.889772402] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530228496, arg3: 524288)
+[PID 682] [1752447511.889812602] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.889854502] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.890137802] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.890188402] Entering syscall: mmap (9) (arg1: 0, arg2: 23, arg3: 1)
+[PID 682] [1752447511.890233102] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.890279702] Entering syscall: close (3) (arg1: 3, arg2: 23, arg3: 1)
+[PID 682] [1752447511.890340302] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.890394402] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530228624, arg3: 524288)
+[PID 682] [1752447511.890443602] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.890497702] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530229184, arg3: 524288)
+[PID 682] [1752447511.890591102] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.890639702] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.890692502] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.890770602] Entering syscall: mmap (9) (arg1: 0, arg2: 47, arg3: 1)
+[PID 682] [1752447511.890832702] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.890890702] Entering syscall: close (3) (arg1: 3, arg2: 47, arg3: 1)
+[PID 682] [1752447511.890966602] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.891027602] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530229648, arg3: 524288)
+[PID 682] [1752447511.891075702] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.891145902] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530229888, arg3: 524288)
+[PID 682] [1752447511.891194002] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.891242602] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.891291602] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.891359002] Entering syscall: mmap (9) (arg1: 0, arg2: 127, arg3: 1)
+[PID 682] [1752447511.891417102] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.891471502] Entering syscall: close (3) (arg1: 3, arg2: 127, arg3: 1)
+[PID 682] [1752447511.891539902] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.891597802] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530230416, arg3: 524288)
+[PID 682] [1752447511.891650802] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.891710202] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530230656, arg3: 524288)
+[PID 682] [1752447511.891756902] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.891798202] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.891837502] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.891885202] Entering syscall: mmap (9) (arg1: 0, arg2: 62, arg3: 1)
+[PID 682] [1752447511.891924402] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.891963502] Entering syscall: close (3) (arg1: 3, arg2: 62, arg3: 1)
+[PID 682] [1752447511.892094202] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.892151602] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530231008, arg3: 524288)
+[PID 682] [1752447511.892194102] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.892240402] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530231248, arg3: 524288)
+[PID 682] [1752447511.892280402] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.892321202] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.892361102] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.892427102] Entering syscall: mmap (9) (arg1: 0, arg2: 34, arg3: 1)
+[PID 682] [1752447511.892475602] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.892531502] Entering syscall: close (3) (arg1: 3, arg2: 34, arg3: 1)
+[PID 682] [1752447511.892588002] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.892645002] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530235120, arg3: 524288)
+[PID 682] [1752447511.893039302] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.893109002] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530235968, arg3: 524288)
+[PID 682] [1752447511.893151002] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.893193902] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.893236302] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.893278002] Entering syscall: close (3) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.893330002] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.893387702] Entering syscall: openat (257) (arg1: 4294967196, arg2: 140724837228320, arg3: 524288)
+[PID 682] [1752447511.893430002] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.893470002] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.893524402] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.893578502] Entering syscall: mmap (9) (arg1: 0, arg2: 48, arg3: 1)
+[PID 682] [1752447511.893627902] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.893670902] Entering syscall: close (3) (arg1: 3, arg2: 48, arg3: 1)
+[PID 682] [1752447511.893738302] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.893785902] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530236096, arg3: 524288)
+[PID 682] [1752447511.893825902] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.893878002] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530236944, arg3: 524288)
+[PID 682] [1752447511.893919902] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.893959602] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.893998302] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.894047502] Entering syscall: mmap (9) (arg1: 0, arg2: 270, arg3: 1)
+[PID 682] [1752447511.894086802] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.894125302] Entering syscall: close (3) (arg1: 3, arg2: 270, arg3: 1)
+[PID 682] [1752447511.894170802] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.894212902] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530237728, arg3: 524288)
+[PID 682] [1752447511.894251802] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.894293702] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530237968, arg3: 524288)
+[PID 682] [1752447511.894332702] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.894371402] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.894409802] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.894452902] Entering syscall: mmap (9) (arg1: 0, arg2: 1406, arg3: 1)
+[PID 682] [1752447511.894491702] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.894530502] Entering syscall: close (3) (arg1: 3, arg2: 1406, arg3: 1)
+[PID 682] [1752447511.894590202] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.894624302] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530238544, arg3: 524288)
+[PID 682] [1752447511.894664302] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.894706802] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530238784, arg3: 524288)
+[PID 682] [1752447511.894745702] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.894784702] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.894823202] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.894866002] Entering syscall: mmap (9) (arg1: 0, arg2: 3360, arg3: 1)
+[PID 682] [1752447511.894904902] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.894943302] Entering syscall: close (3) (arg1: 3, arg2: 3360, arg3: 1)
+[PID 682] [1752447511.894987902] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.895227502] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530240480, arg3: 524288)
+[PID 682] [1752447511.895266902] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.895309302] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530240720, arg3: 524288)
+[PID 682] [1752447511.895347802] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.895386702] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.895425402] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.895470002] Entering syscall: mmap (9) (arg1: 0, arg2: 50, arg3: 1)
+[PID 682] [1752447511.895509702] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.895549602] Entering syscall: close (3) (arg1: 3, arg2: 50, arg3: 1)
+[PID 682] [1752447511.895596702] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.895638202] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530241184, arg3: 524288)
+[PID 682] [1752447511.895676802] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.895718702] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530241424, arg3: 524288)
+[PID 682] [1752447511.895757702] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.895796502] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228400, arg3: 0)
+[PID 682] [1752447511.895835802] Exiting syscall: mmap (9) -> return: -38
+[PID 682] [1752447511.895878802] Entering syscall: mmap (9) (arg1: 0, arg2: 360460, arg3: 1)
+[PID 682] [1752447511.895917902] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.895956602] Entering syscall: close (3) (arg1: 3, arg2: 360460, arg3: 1)
+[PID 682] [1752447511.896015102] Exiting syscall: unknown (16) -> return: -38
+[PID 682] [1752447511.896054702] Entering syscall: unknown (16) (arg1: 1, arg2: 21505, arg3: 140724837228960)
+[PID 682] [1752447511.896118502] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.896422102] Entering syscall: openat (257) (arg1: 4294967196, arg2: 107081530243120, arg3: 591872)
+[PID 682] [1752447511.896461602] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.896647302] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837228144, arg3: 0)
+[PID 682] [1752447511.896692202] Exiting syscall: unknown (217) -> return: -38
+[PID 682] [1752447511.896985802] Entering syscall: unknown (217) (arg1: 3, arg2: 107081530264208, arg3: 32768)
+[PID 682] [1752447511.897026902] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.897593702] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227472, arg3: 2304)
+[PID 682] [1752447511.897654602] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.898756502] Entering syscall: unknown (192) (arg1: 140724837227472, arg2: 138128238641559, arg3: 107081530296992)
+[PID 682] [1752447511.898808502] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.899655002] Entering syscall: unknown (194) (arg1: 140724837227472, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.899722302] Exiting syscall: unknown (41) -> return: -38
+[PID 682] [1752447511.899776002] Entering syscall: unknown (41) (arg1: 1, arg2: 526337, arg3: 0)
+[PID 682] [1752447511.899816602] Exiting syscall: unknown (42) -> return: -38
+[PID 682] [1752447511.899881502] Entering syscall: unknown (42) (arg1: 4, arg2: 140724837226096, arg3: 110)
+[PID 682] [1752447511.899929102] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.899976402] Entering syscall: close (3) (arg1: 4, arg2: 140724837226096, arg3: -352)
+[PID 682] [1752447511.900016702] Exiting syscall: unknown (41) -> return: -38
+[PID 682] [1752447511.900062102] Entering syscall: unknown (41) (arg1: 1, arg2: 526337, arg3: 0)
+[PID 682] [1752447511.900101502] Exiting syscall: unknown (42) -> return: -38
+[PID 682] [1752447511.900149102] Entering syscall: unknown (42) (arg1: 4, arg2: 140724837226592, arg3: 110)
+[PID 682] [1752447511.900188702] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.900482102] Entering syscall: close (3) (arg1: 4, arg2: 140724837226592, arg3: -352)
+[PID 682] [1752447511.900564802] Exiting syscall: unknown (262) -> return: -38
+[PID 682] [1752447511.900630402] Entering syscall: unknown (262) (arg1: 4294967196, arg2: 138128236801426, arg3: 140724837226352)
+[PID 682] [1752447511.900678702] Exiting syscall: unknown (262) -> return: -38
+[PID 682] [1752447511.900733002] Entering syscall: unknown (262) (arg1: 4294967196, arg2: 138128236785725, arg3: 140724837226688)
+[PID 682] [1752447511.900784902] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.900840302] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128236801426, arg3: 524288)
+[PID 682] [1752447511.900897902] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.900941702] Entering syscall: fstat (5) (arg1: 4, arg2: 140724837226128, arg3: 138128237010656)
+[PID 682] [1752447511.900992502] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.901047702] Entering syscall: read (0) (arg1: 4, arg2: 107081530297616, arg3: 4096)
+[PID 682] [1752447511.901109302] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.901160102] Entering syscall: read (0) (arg1: 4, arg2: 107081530297616, arg3: 4096)
+[PID 682] [1752447511.901215402] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.901266202] Entering syscall: fstat (5) (arg1: 4, arg2: 140724837226352, arg3: 0)
+[PID 682] [1752447511.901313202] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.901360902] Entering syscall: close (3) (arg1: 4, arg2: 1, arg3: 138128237010656)
+[PID 682] [1752447511.901407402] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.901462702] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128236802848, arg3: 524288)
+[PID 682] [1752447511.901506702] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.901574502] Entering syscall: fstat (5) (arg1: 4, arg2: 140724837226464, arg3: 138128237010656)
+[PID 682] [1752447511.901626502] Exiting syscall: unknown (8) -> return: -38
+[PID 682] [1752447511.901684702] Entering syscall: unknown (8) (arg1: 4, arg2: 0, arg3: 0)
+[PID 682] [1752447511.901732302] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.901779302] Entering syscall: read (0) (arg1: 4, arg2: 107081530297616, arg3: 4096)
+[PID 682] [1752447511.901826402] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.901867702] Entering syscall: close (3) (arg1: 4, arg2: 1, arg3: 138128237010656)
+[PID 682] [1752447511.901912602] Exiting syscall: unknown (41) -> return: -38
+[PID 682] [1752447511.901962702] Entering syscall: unknown (41) (arg1: 1, arg2: 526337, arg3: 0)
+[PID 682] [1752447511.902001702] Exiting syscall: unknown (42) -> return: -38
+[PID 682] [1752447511.902057902] Entering syscall: unknown (42) (arg1: 4, arg2: 140724837224992, arg3: 110)
+[PID 682] [1752447511.902096902] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.902140402] Entering syscall: close (3) (arg1: 4, arg2: 140724837224992, arg3: -352)
+[PID 682] [1752447511.902179002] Exiting syscall: unknown (41) -> return: -38
+[PID 682] [1752447511.902221302] Entering syscall: unknown (41) (arg1: 1, arg2: 526337, arg3: 0)
+[PID 682] [1752447511.902270302] Exiting syscall: unknown (42) -> return: -38
+[PID 682] [1752447511.902315902] Entering syscall: unknown (42) (arg1: 4, arg2: 140724837225488, arg3: 110)
+[PID 682] [1752447511.902355202] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.902396702] Entering syscall: close (3) (arg1: 4, arg2: 140724837225488, arg3: -352)
+[PID 682] [1752447511.902436302] Exiting syscall: unknown (262) -> return: -38
+[PID 682] [1752447511.902478002] Entering syscall: unknown (262) (arg1: 4294967196, arg2: 138128236801426, arg3: 140724837226336)
+[PID 682] [1752447511.902519102] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.902561702] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128236802641, arg3: 524288)
+[PID 682] [1752447511.902615402] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.902862702] Entering syscall: fstat (5) (arg1: 4, arg2: 140724837226448, arg3: 138128237010656)
+[PID 682] [1752447511.902911702] Exiting syscall: unknown (8) -> return: -38
+[PID 682] [1752447511.902950702] Entering syscall: unknown (8) (arg1: 4, arg2: 0, arg3: 0)
+[PID 682] [1752447511.902989702] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.903029502] Entering syscall: read (0) (arg1: 4, arg2: 107081530305536, arg3: 4096)
+[PID 682] [1752447511.903073102] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.903112702] Entering syscall: close (3) (arg1: 4, arg2: 1, arg3: 138128237010656)
+[PID 682] [1752447511.903242702] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.904336402] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227472, arg3: 2304)
+[PID 682] [1752447511.904412402] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.905209702] Entering syscall: unknown (192) (arg1: 140724837227472, arg2: 138128238641559, arg3: 107081530298752)
+[PID 682] [1752447511.905259002] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.905889402] Entering syscall: unknown (194) (arg1: 140724837227472, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.905936902] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.906433602] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227472, arg3: 2304)
+[PID 682] [1752447511.906476202] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.907001902] Entering syscall: unknown (192) (arg1: 140724837227472, arg2: 138128238641559, arg3: 107081530299056)
+[PID 682] [1752447511.907047302] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.907606502] Entering syscall: unknown (194) (arg1: 140724837227472, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.907650502] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.908124402] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227472, arg3: 2304)
+[PID 682] [1752447511.908166202] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.908647502] Entering syscall: unknown (192) (arg1: 140724837227472, arg2: 138128238641559, arg3: 107081530299360)
+[PID 682] [1752447511.908688102] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.909550802] Entering syscall: unknown (194) (arg1: 140724837227472, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.909603202] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.909848202] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227472, arg3: 2304)
+[PID 682] [1752447511.909893502] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.910129302] Entering syscall: unknown (192) (arg1: 140724837227472, arg2: 138128238641559, arg3: 107081530299664)
+[PID 682] [1752447511.910175002] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.910474102] Entering syscall: unknown (194) (arg1: 140724837227472, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.910518802] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.911118602] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227456, arg3: 2304)
+[PID 682] [1752447511.911164102] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.911685302] Entering syscall: unknown (192) (arg1: 140724837227456, arg2: 138128238641559, arg3: 107081530299968)
+[PID 682] [1752447511.911726902] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.912319302] Entering syscall: unknown (194) (arg1: 140724837227456, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.912363002] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.912533402] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227472, arg3: 2304)
+[PID 682] [1752447511.912574102] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.912753402] Entering syscall: utotal 172
+-rwxrwxrwx 1 manel manel    29 Jul  7 19:17 README.md
+-rwxrwxrwx 1 manel manel 52033 Jul 13 13:25 Tratamento.ipynb
+-rwxrwxrwx 1 manel manel 27804 Jul 13 13:01 grafico_syscalls.png
+-rwxrwxrwx 1 manel manel    13 Jul  7 19:17 requirements.txt
+-rwxrwxrwx 1 manel manel  7861 Jul  8 19:12 run_syscall_logger.sh
+-rwxrwxrwx 1 manel manel 32768 Jul 13  2025 saida.txt
+-rwxrwxrwx 1 manel manel 16560 Jul 13 19:58 syscall_logger_exec
+-rwxrwxrwx 1 manel manel  2828 Jul 13 19:55 syscall_logger_exec.c
+-rwxrwxrwx 1 manel manel 13414 Jul 13 13:25 syscalls_formatado.csv
+nknown (192) (arg1: 140724837227472, arg2: 138128238641559, arg3: 107081530300272)
+[PID 682] [1752447511.912961802] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.913291802] Entering syscall: unknown (194) (arg1: 140724837227472, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.913339902] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.914052002] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227472, arg3: 2304)
+[PID 682] [1752447511.914102202] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.915022402] Entering syscall: unknown (192) (arg1: 140724837227472, arg2: 138128238641559, arg3: 107081530300576)
+[PID 682] [1752447511.915093102] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.915929202] Entering syscall: unknown (194) (arg1: 140724837227472, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.915994302] Exiting syscall: unknown (332) -> return: -38
+[PID 682] [1752447511.916612702] Entering syscall: unknown (332) (arg1: 4294967196, arg2: 140724837227472, arg3: 2304)
+[PID 682] [1752447511.916667302] Exiting syscall: unknown (192) -> return: -38
+[PID 682] [1752447511.917207102] Entering syscall: unknown (192) (arg1: 140724837227472, arg2: 138128238641559, arg3: 107081530300608)
+[PID 682] [1752447511.917251002] Exiting syscall: unknown (194) -> return: -38
+[PID 682] [1752447511.917915202] Entering syscall: unknown (194) (arg1: 140724837227472, arg2: 140724837227600, arg3: 152)
+[PID 682] [1752447511.917972402] Exiting syscall: unknown (217) -> return: -38
+[PID 682] [1752447511.918268302] Entering syscall: unknown (217) (arg1: 3, arg2: 107081530264208, arg3: 32768)
+[PID 682] [1752447511.918327602] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.918527402] Entering syscall: close (3) (arg1: 3, arg2: 32832, arg3: 138128237017888)
+[PID 682] [1752447511.918601502] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.918910702] Entering syscall: fstat (5) (arg1: 1, arg2: 140724837227888, arg3: 138128237010656)
+[PID 682] [1752447511.918982002] Exiting syscall: openat (257) -> return: -38
+[PID 682] [1752447511.919040702] Entering syscall: openat (257) (arg1: 4294967196, arg2: 138128236792359, arg3: 524288)
+[PID 682] [1752447511.919081602] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.919121502] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837223664, arg3: 8)
+[PID 682] [1752447511.919161302] Exiting syscall: fstat (5) -> return: -38
+[PID 682] [1752447511.919200202] Entering syscall: fstat (5) (arg1: 3, arg2: 140724837223152, arg3: 138128237010656)
+[PID 682] [1752447511.919243602] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.919285202] Entering syscall: read (0) (arg1: 3, arg2: 107081530268272, arg3: 4096)
+[PID 682] [1752447511.919325602] Exiting syscall: unknown (8) -> return: -38
+[PID 682] [1752447511.919364602] Entering syscall: unknown (8) (arg1: 3, arg2: -910, arg3: 1)
+[PID 682] [1752447511.919403702] Exiting syscall: read (0) -> return: -38
+[PID 682] [1752447511.919443002] Entering syscall: read (0) (arg1: 3, arg2: 107081530268272, arg3: 4096)
+[PID 682] [1752447511.919484302] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.919524802] Entering syscall: close (3) (arg1: 3, arg2: 1, arg3: 138128237010656)
+[PID 682] [1752447511.919588802] Exiting syscall: write (1) -> return: -38
+[PID 682] [1752447511.919776102] Entering syscall: write (1) (arg1: 1, arg2: 107081530264160, arg3: 568)
+[PID 682] [1752447511.919817202] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.919856502] Entering syscall: close (3) (arg1: 1, arg2: 107081530264160, arg3: 138128237010656)
+[PID 682] [1752447511.919911402] Exiting syscall: close (3) -> return: -38
+[PID 682] [1752447511.919967702] Entering syscall: close (3) (arg1: 2, arg2: 1, arg3: 138128237010656)
+[PID 682] [1752447511.920050902] Exiting syscall: exit_group (231) -> return: -38
